@@ -1,0 +1,31 @@
+{
+  "id": "sku_009",
+  "name": "Stormguard",
+  "price": 185,
+  "specs": {
+    "weight_g": 305,
+    "drop_mm": 8,
+    "stack_height_mm": 29,
+    "upper": "ripstop with TPU overlays",
+    "midsole": "EVA",
+    "outsole": "4mm lugs",
+    "plate": "none",
+    "surface": "trail",
+    "waterproof": true,
+    "cushioning": "moderate"
+  },
+  "description": "A winter-season model with a sealed construction and a higher collar. Reflective trim at the heel and a durable toe cap. The 4mm lugs on the outsole provide grip for trail surfaces, helping you stay secure on mixed terrain.",
+  "edit_history": [
+    {
+      "at": "2026-08-29T13:18:53.874942+00:00",
+      "added": "A winter-season model with a sealed construction and a higher collar. Reflective trim at the heel and a durable toe cap. The 4mm lugs on the outsole provide grip for trail surfaces, helping you stay secure on mixed terrain.",
+      "replaced": "A winter-season model with a sealed construction and a higher collar. Reflective trim at the heel and a durable toe cap.",
+      "based_on": [
+        "outsole: 4mm lugs",
+        "surface: trail"
+      ],
+      "proposal_id": "prop_121"
+    }
+  ],
+  "semantic_links": []
+}

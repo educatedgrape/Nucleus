@@ -1,0 +1,30 @@
+{
+  "id": "sku_011",
+  "name": "Featherpoint",
+  "price": 148,
+  "specs": {
+    "weight_g": 189,
+    "drop_mm": 6,
+    "stack_height_mm": 25,
+    "upper": "engineered mesh",
+    "midsole": "EVA blend",
+    "outsole": "blown rubber",
+    "plate": "none",
+    "surface": "road",
+    "waterproof": false,
+    "cushioning": "firm"
+  },
+  "description": "A stripped-back trainer with a simplified upper and a low-profile collar. Single-layer construction throughout. The engineered mesh upper allows air to circulate, helping to keep your feet cool on warm runs.",
+  "edit_history": [
+    {
+      "at": "2026-08-29T13:18:54.017903+00:00",
+      "added": "A stripped-back trainer with a simplified upper and a low-profile collar. Single-layer construction throughout. The engineered mesh upper allows air to circulate, helping to keep your feet cool on warm runs.",
+      "replaced": "A stripped-back trainer with a simplified upper and a low-profile collar. Single-layer construction throughout.",
+      "based_on": [
+        "upper: engineered mesh"
+      ],
+      "proposal_id": "prop_130"
+    }
+  ],
+  "semantic_links": []
+}

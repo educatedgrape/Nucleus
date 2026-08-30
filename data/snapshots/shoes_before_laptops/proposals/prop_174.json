@@ -1,0 +1,23 @@
+{
+  "id": "prop_174",
+  "created_at": "2026-08-29T13:18:38.629945+00:00",
+  "status": "pending",
+  "gap_id": "gap_174",
+  "product_id": "sku_017",
+  "intent": "Breathability and temperature management (hot/cold/wet)",
+  "action": "rewrite",
+  "new_description": "A no-nonsense trainer at an accessible price. Traditional construction with a padded tongue and collar. The synthetic mesh upper allows air to circulate, helping to keep your feet cooler on warm runs.",
+  "based_on": [
+    "upper: synthetic mesh"
+  ],
+  "reason": "The 'upper' field specifies synthetic mesh, which supports breathability. The 'waterproof' field is False, but does not directly support a benefit for temperature management, so only breathability is addressed.",
+  "from_description": "A no-nonsense trainer at an accessible price. Traditional construction with a padded tongue and collar.",
+  "claims": [
+    {
+      "sentence": "The synthetic mesh upper allows air to circulate, helping to keep your feet cooler on warm runs.",
+      "spec_fields": [
+        "upper"
+      ]
+    }
+  ]
+}

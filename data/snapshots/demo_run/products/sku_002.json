@@ -1,0 +1,33 @@
+{
+  "id": "sku_002",
+  "name": "Nimbus Street",
+  "price": 130,
+  "specs": {
+    "weight_g": 198,
+    "drop_mm": 8,
+    "stack_height_mm": 27,
+    "upper": "synthetic mesh",
+    "midsole": "EVA",
+    "outsole": "blown rubber",
+    "plate": "none",
+    "surface": "road",
+    "waterproof": false,
+    "cushioning": "moderate"
+  },
+  "description": "A clean, understated daily trainer with a streamlined silhouette. Available in four colourways with a padded collar and a traditional lacing setup.",
+  "edit_history": [],
+  "semantic_links": [
+    {
+      "intent": "Durability and longevity for frequent training",
+      "round": 1,
+      "evidenced_by": "I’ve worn out my current wide trainers—what’s a good upgrade for daily half marathon training under $160?",
+      "rank": 5
+    },
+    {
+      "intent": "Comfort and fit for wide feet during long runs",
+      "round": 1,
+      "evidenced_by": "I have a half marathon in 3 weeks—what wide, comfortable trainers can I break in quickly for daily runs?",
+      "rank": 5
+    }
+  ]
+}

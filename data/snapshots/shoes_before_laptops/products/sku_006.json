@@ -1,0 +1,31 @@
+{
+  "id": "sku_006",
+  "name": "Pace Marker",
+  "price": 225,
+  "specs": {
+    "weight_g": 224,
+    "drop_mm": 8,
+    "stack_height_mm": 36,
+    "upper": "knit",
+    "midsole": "Pebax",
+    "outsole": "carbon rubber",
+    "plate": "carbon fibre",
+    "surface": "road",
+    "waterproof": false,
+    "cushioning": "high"
+  },
+  "description": "A competition-oriented silhouette with a sculpted midsole sidewall and a minimal heel. Finished in a two-tone upper. The Pebax midsole delivers responsive cushioning, while a carbon fibre plate adds stiffness for efficient energy transfer.",
+  "edit_history": [
+    {
+      "at": "2026-08-29T13:18:53.601118+00:00",
+      "added": "A competition-oriented silhouette with a sculpted midsole sidewall and a minimal heel. Finished in a two-tone upper. The Pebax midsole delivers responsive cushioning, while a carbon fibre plate adds stiffness for efficient energy transfer.",
+      "replaced": "A competition-oriented silhouette with a sculpted midsole sidewall and a minimal heel. Finished in a two-tone upper.",
+      "based_on": [
+        "midsole: Pebax",
+        "plate: carbon fibre"
+      ],
+      "proposal_id": "prop_104"
+    }
+  ],
+  "semantic_links": []
+}

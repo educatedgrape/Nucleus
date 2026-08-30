@@ -1,0 +1,24 @@
+{
+  "id": "sku_003",
+  "name": "Halcyon Glass 14",
+  "price": 1449,
+  "specs": {
+    "weight_kg": 1.38,
+    "screen_size_in": 14.0,
+    "screen_type": "IPS matte anti-glare",
+    "refresh_hz": 90,
+    "brightness_nits": 600,
+    "cpu": "Ryzen 7 8840U",
+    "gpu": "integrated",
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "battery_wh": 72,
+    "ports": "HDMI, 2x USB-C, SD card reader",
+    "chassis": "aluminium unibody",
+    "cooling": "single fan",
+    "os": "Windows 11"
+  },
+  "description": "Built for people who work outdoors or beside windows. The matte anti-glare finish kills reflections that make a glossy panel useless in daylight, 600 nits stays legible in direct sunlight, and the 72Wh battery runs all day away from a socket.",
+  "edit_history": [],
+  "semantic_links": []
+}

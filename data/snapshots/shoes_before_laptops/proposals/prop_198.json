@@ -1,0 +1,12 @@
+{
+  "id": "prop_198",
+  "created_at": "2026-08-29T13:18:40.842342+00:00",
+  "status": "pending",
+  "gap_id": "gap_198",
+  "product_id": "sku_023",
+  "intent": "Grip and versatility for mixed surfaces",
+  "action": "skip",
+  "new_description": null,
+  "based_on": [],
+  "reason": "Specs specify 'track' surface and a 7-pin spike plate, not suitable for mixed surfaces."
+}

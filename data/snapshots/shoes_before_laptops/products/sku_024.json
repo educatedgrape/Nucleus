@@ -1,0 +1,51 @@
+{
+  "id": "sku_024",
+  "name": "Ironclad Stability",
+  "price": 172,
+  "specs": {
+    "weight_g": 340,
+    "drop_mm": 12,
+    "stack_height_mm": 30,
+    "upper": "synthetic overlay",
+    "midsole": "dual-density EVA",
+    "outsole": "carbon rubber",
+    "plate": "medial post",
+    "surface": "road",
+    "waterproof": false,
+    "cushioning": "firm"
+  },
+  "description": "A heavy-duty motion control trainer with a dual-density medial post and a rigid heel counter. Built on a straight last.",
+  "edit_history": [],
+  "semantic_links": [
+    {
+      "intent": "Durability and longevity for frequent training",
+      "round": 1,
+      "evidenced_by": "What are the lightest neutral trainers for wide feet that can handle 5 runs a week and cost less than $160?",
+      "rank": 4
+    },
+    {
+      "intent": "Comfort and fit for wide feet during long runs",
+      "round": 1,
+      "evidenced_by": "Are there neutral trainers for wide feet with a bit more arch support, but still roomy and good for long runs?",
+      "rank": 5
+    },
+    {
+      "intent": "Grip and versatility for mixed surfaces",
+      "round": 1,
+      "evidenced_by": "Best neutral trainers for wide feet that grip well on both pavement and occasional towpath runs?",
+      "rank": 5
+    },
+    {
+      "intent": "Minimalist or simple design preferences",
+      "round": 1,
+      "evidenced_by": "I don’t want a shoe with a lot of gimmicks or tech—just a simple, reliable neutral trainer for wide feet. Any recommendations?",
+      "rank": 1
+    },
+    {
+      "intent": "Support and injury recovery for wide feet",
+      "round": 1,
+      "evidenced_by": "Coming back from a mild foot injury—what neutral trainers for wide feet offer good support but aren’t too stiff?",
+      "rank": 4
+    }
+  ]
+}

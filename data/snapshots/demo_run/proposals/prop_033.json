@@ -1,0 +1,19 @@
+{
+  "id": "prop_033",
+  "created_at": "2026-08-29T13:18:18.333808+00:00",
+  "status": "approved",
+  "gap_id": "gap_033",
+  "product_id": "sku_015",
+  "intent": "Breathability and temperature management (hot/cold/wet)",
+  "action": "no_change",
+  "new_description": null,
+  "based_on": [],
+  "reason": "Already surfaces for this intent; the description is doing its job. No change necessary.",
+  "link": {
+    "intent": "Breathability and temperature management (hot/cold/wet)",
+    "round": 1,
+    "evidenced_by": "I travel a lot for work—what’s a good neutral running shoe for wide feet that packs easily and dries fast?",
+    "rank": 4
+  },
+  "applied": "semantic_link_recorded"
+}

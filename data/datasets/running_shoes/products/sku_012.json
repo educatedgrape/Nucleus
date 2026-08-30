@@ -1,0 +1,20 @@
+{
+  "id": "sku_012",
+  "name": "Aria Mesh",
+  "price": 138,
+  "specs": {
+    "weight_g": 236,
+    "drop_mm": 8,
+    "stack_height_mm": 28,
+    "upper": "engineered mesh",
+    "midsole": "EVA",
+    "outsole": "blown rubber",
+    "plate": "none",
+    "surface": "road",
+    "waterproof": false,
+    "cushioning": "moderate"
+  },
+  "description": "An everyday trainer with a soft heel collar and a flat waxed lace. Offered in seasonal colours.",
+  "edit_history": [],
+  "semantic_links": []
+}

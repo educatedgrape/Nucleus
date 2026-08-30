@@ -1,0 +1,19 @@
+{
+  "id": "prop_073",
+  "created_at": "2026-08-29T13:18:18.446591+00:00",
+  "status": "approved",
+  "gap_id": "gap_073",
+  "product_id": "sku_026",
+  "intent": "Support and injury recovery for wide feet",
+  "action": "no_change",
+  "new_description": null,
+  "based_on": [],
+  "reason": "Already surfaces for this intent; the description is doing its job. No change necessary.",
+  "link": {
+    "intent": "Support and injury recovery for wide feet",
+    "round": 1,
+    "evidenced_by": "Coming back from a mild foot injury—what neutral trainers for wide feet offer good support but aren’t too stiff?",
+    "rank": 1
+  },
+  "applied": "semantic_link_recorded"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "prop_006",
+  "created_at": "2026-08-29T13:18:18.278277+00:00",
+  "status": "approved",
+  "gap_id": "gap_006",
+  "product_id": "sku_010",
+  "intent": "Durability and longevity for frequent training",
+  "action": "no_change",
+  "new_description": null,
+  "based_on": [],
+  "reason": "Already surfaces for this intent; the description is doing its job. No change necessary.",
+  "link": {
+    "intent": "Durability and longevity for frequent training",
+    "round": 1,
+    "evidenced_by": "Are there any wide running shoes for half marathon training that are under $120 but still last for daily runs?",
+    "rank": 4
+  },
+  "applied": "semantic_link_recorded"
+}

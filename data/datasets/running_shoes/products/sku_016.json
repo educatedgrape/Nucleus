@@ -1,0 +1,20 @@
+{
+  "id": "sku_016",
+  "name": "Meridian Daily",
+  "price": 135,
+  "specs": {
+    "weight_g": 275,
+    "drop_mm": 10,
+    "stack_height_mm": 31,
+    "upper": "engineered mesh",
+    "midsole": "EVA",
+    "outsole": "carbon rubber",
+    "plate": "none",
+    "surface": "road",
+    "waterproof": false,
+    "cushioning": "moderate"
+  },
+  "description": "The high-mileage workhorse. A full carbon rubber outsole makes this exceptionally durable and long-lasting, comfortably absorbing weeks of daily training, while the breathable mesh upper keeps things cool.",
+  "edit_history": [],
+  "semantic_links": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "sku_017",
+  "name": "Sable Thin 14",
+  "price": 1249,
+  "specs": {
+    "weight_kg": 1.24,
+    "screen_size_in": 14.0,
+    "screen_type": "IPS",
+    "refresh_hz": 60,
+    "brightness_nits": 400,
+    "cpu": "Core Ultra 5",
+    "gpu": "integrated",
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "battery_wh": 60,
+    "ports": "2x USB-C, USB-A",
+    "chassis": "aluminium unibody",
+    "cooling": "single fan",
+    "os": "Windows 11"
+  },
+  "description": "A slim 14 inch notebook in three finishes. Ships with a 65W charger and a one-year subscription to the productivity suite.",
+  "edit_history": [],
+  "semantic_links": []
+}

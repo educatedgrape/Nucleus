@@ -1,0 +1,12 @@
+{
+  "id": "prop_187",
+  "created_at": "2026-08-29T13:18:40.807317+00:00",
+  "status": "pending",
+  "gap_id": "gap_187",
+  "product_id": "sku_021",
+  "intent": "Grip and versatility for mixed surfaces",
+  "action": "skip",
+  "new_description": null,
+  "based_on": [],
+  "reason": "Surface is 'road' and outsole is 'blown rubber', which does not support mixed surface use."
+}

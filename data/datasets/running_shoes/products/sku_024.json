@@ -1,0 +1,20 @@
+{
+  "id": "sku_024",
+  "name": "Ironclad Stability",
+  "price": 172,
+  "specs": {
+    "weight_g": 340,
+    "drop_mm": 12,
+    "stack_height_mm": 30,
+    "upper": "synthetic overlay",
+    "midsole": "dual-density EVA",
+    "outsole": "carbon rubber",
+    "plate": "medial post",
+    "surface": "road",
+    "waterproof": false,
+    "cushioning": "firm"
+  },
+  "description": "A heavy-duty motion control trainer with a dual-density medial post and a rigid heel counter. Built on a straight last.",
+  "edit_history": [],
+  "semantic_links": []
+}

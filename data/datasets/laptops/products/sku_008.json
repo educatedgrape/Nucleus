@@ -1,0 +1,24 @@
+{
+  "id": "sku_008",
+  "name": "Beacon 17",
+  "price": 1699,
+  "specs": {
+    "weight_kg": 2.6,
+    "screen_size_in": 17.3,
+    "screen_type": "IPS",
+    "refresh_hz": 60,
+    "brightness_nits": 350,
+    "cpu": "Core i7-13620H",
+    "gpu": "integrated",
+    "ram_gb": 16,
+    "storage_gb": 1000,
+    "battery_wh": 85,
+    "ports": "HDMI, 3x USB-A, USB-C, Ethernet",
+    "chassis": "polycarbonate",
+    "cooling": "dual-fan",
+    "os": "Windows 11"
+  },
+  "description": "A large-screen machine for people who work in spreadsheets and windows side by side. The 17.3 inch panel is spacious enough for two documents at once, and HDMI drives a projector or a meeting-room monitor with no adapter.",
+  "edit_history": [],
+  "semantic_links": []
+}

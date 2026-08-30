@@ -1,0 +1,20 @@
+{
+  "id": "sku_015",
+  "name": "Endurance 12",
+  "price": 168,
+  "specs": {
+    "weight_g": 288,
+    "drop_mm": 10,
+    "stack_height_mm": 36,
+    "upper": "engineered mesh",
+    "midsole": "supercritical EVA",
+    "outsole": "carbon rubber",
+    "plate": "none",
+    "surface": "road",
+    "waterproof": false,
+    "cushioning": "high"
+  },
+  "description": "The twelfth edition of a long-running model, updated with a revised upper pattern and a new heel geometry. Wide platform.",
+  "edit_history": [],
+  "semantic_links": []
+}

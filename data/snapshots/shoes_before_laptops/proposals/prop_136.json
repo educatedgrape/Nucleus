@@ -1,0 +1,12 @@
+{
+  "id": "prop_136",
+  "created_at": "2026-08-29T13:18:27.590740+00:00",
+  "status": "pending",
+  "gap_id": "gap_136",
+  "product_id": "sku_011",
+  "intent": "Support and injury recovery for wide feet",
+  "action": "flag",
+  "new_description": null,
+  "based_on": [],
+  "reason": "No specs for wide fit, arch support, or stability features."
+}

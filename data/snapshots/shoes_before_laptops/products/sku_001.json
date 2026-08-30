@@ -1,0 +1,45 @@
+{
+  "id": "sku_001",
+  "name": "Zephyr Air 3",
+  "price": 145,
+  "specs": {
+    "weight_g": 205,
+    "drop_mm": 8,
+    "stack_height_mm": 30,
+    "upper": "engineered mesh",
+    "midsole": "EVA blend",
+    "outsole": "blown rubber",
+    "plate": "none",
+    "surface": "road",
+    "waterproof": false,
+    "cushioning": "moderate"
+  },
+  "description": "A lightweight road trainer built for warm mornings. The engineered mesh upper is highly breathable, moving air across the foot on humid runs, and at 205g it stays light through the back half of a long session.",
+  "edit_history": [],
+  "semantic_links": [
+    {
+      "intent": "Durability and longevity for frequent training",
+      "round": 1,
+      "evidenced_by": "What are the lightest neutral trainers for wide feet that can handle 5 runs a week and cost less than $160?",
+      "rank": 5
+    },
+    {
+      "intent": "Comfort and fit for wide feet during long runs",
+      "round": 1,
+      "evidenced_by": "I have a half marathon in 3 weeks—what wide, comfortable trainers can I break in quickly for daily runs?",
+      "rank": 2
+    },
+    {
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "round": 1,
+      "evidenced_by": "I run early in the morning when it’s still cool and sometimes damp—what neutral trainers are comfortable for wide feet and won’t get soggy or heavy?",
+      "rank": 2
+    },
+    {
+      "intent": "Grip and versatility for mixed surfaces",
+      "round": 1,
+      "evidenced_by": "I mostly run on roads but sometimes hit gravel towpaths—what neutral trainers work for both, especially for wide feet?",
+      "rank": 4
+    }
+  ]
+}

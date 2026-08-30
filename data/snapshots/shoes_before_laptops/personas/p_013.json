@@ -1,0 +1,25 @@
+{
+  "id": "p_013",
+  "seed_id": "seed_01",
+  "origin": "synthetic",
+  "need": "A durable neutral road trainer for half marathon training that stays comfortable over long distances and does not cramp a wide forefoot",
+  "must_have": [
+    "room across the forefoot",
+    "under $160",
+    "durable enough for five runs a week"
+  ],
+  "prefer": [
+    "lighter than the current pair",
+    "stays cool in summer heat"
+  ],
+  "context": [
+    "half marathon training",
+    "runs five days a week",
+    "wide feet",
+    "feet swell in summer heat",
+    "mostly pavement, occasional towpath"
+  ],
+  "angle": "eco_friendly",
+  "query": "Are there any sustainable or recycled-material running shoes for wide feet that can handle half marathon training?",
+  "source_answers": {}
+}

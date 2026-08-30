@@ -1,0 +1,12 @@
+{
+  "id": "prop_178",
+  "created_at": "2026-08-29T13:18:38.640915+00:00",
+  "status": "pending",
+  "gap_id": "gap_178",
+  "product_id": "sku_017",
+  "intent": "Sustainability and eco-friendly materials",
+  "action": "flag",
+  "new_description": null,
+  "based_on": [],
+  "reason": "No specs address recycled, sustainable, or vegan materials."
+}

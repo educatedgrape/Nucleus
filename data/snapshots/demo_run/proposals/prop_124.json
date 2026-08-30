@@ -1,0 +1,12 @@
+{
+  "id": "prop_124",
+  "created_at": "2026-08-29T13:18:25.418791+00:00",
+  "status": "pending",
+  "gap_id": "gap_124",
+  "product_id": "sku_009",
+  "intent": "Minimalist or simple design preferences",
+  "action": "skip",
+  "new_description": null,
+  "based_on": [],
+  "reason": "Specs indicate moderate cushioning, 29mm stack, and EVA midsole, which are not minimalist features."
+}

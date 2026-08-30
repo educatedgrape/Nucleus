@@ -1,0 +1,26 @@
+{
+  "id": "prop_121",
+  "created_at": "2026-08-29T13:18:25.405196+00:00",
+  "status": "approved",
+  "gap_id": "gap_121",
+  "product_id": "sku_009",
+  "intent": "Grip and versatility for mixed surfaces",
+  "action": "rewrite",
+  "new_description": "A winter-season model with a sealed construction and a higher collar. Reflective trim at the heel and a durable toe cap. The 4mm lugs on the outsole provide grip for trail surfaces, helping you stay secure on mixed terrain.",
+  "based_on": [
+    "outsole: 4mm lugs",
+    "surface: trail"
+  ],
+  "reason": "The outsole and surface specs support a claim about grip and versatility for mixed surfaces.",
+  "from_description": "A winter-season model with a sealed construction and a higher collar. Reflective trim at the heel and a durable toe cap.",
+  "claims": [
+    {
+      "sentence": "The 4mm lugs on the outsole provide grip for trail surfaces, helping you stay secure on mixed terrain.",
+      "spec_fields": [
+        "outsole",
+        "surface"
+      ]
+    }
+  ],
+  "applied": "description_updated"
+}

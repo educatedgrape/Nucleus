@@ -1,0 +1,24 @@
+# secrets -- never commit
+.env
+.env.*
+!.env.example
+
+# python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# node / next
+web/node_modules/
+web/.next/
+web/out/
+
+# generated run artefacts (keep the dataset, drop the run state)
+data/index/
+data/logs/
+data/proposals/
+data/report.json
+data/scores.json
+data/links.json
+data/personas/p_*.json

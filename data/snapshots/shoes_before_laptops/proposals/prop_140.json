@@ -1,0 +1,12 @@
+{
+  "id": "prop_140",
+  "created_at": "2026-08-29T13:18:28.711837+00:00",
+  "status": "pending",
+  "gap_id": "gap_140",
+  "product_id": "sku_013",
+  "intent": "Comfort and fit for wide feet during long runs",
+  "action": "flag",
+  "new_description": null,
+  "based_on": [],
+  "reason": "No specs about toe box width, available widths, or fit for wide feet."
+}

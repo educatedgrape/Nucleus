@@ -1,0 +1,24 @@
+{
+  "id": "prop_185",
+  "created_at": "2026-08-29T13:18:40.796906+00:00",
+  "status": "approved",
+  "gap_id": "gap_185",
+  "product_id": "sku_021",
+  "intent": "Breathability and temperature management (hot/cold/wet)",
+  "action": "rewrite",
+  "new_description": "A rounded silhouette with a broad base and a moulded sockliner. The engineered mesh upper is breathable, helping to keep your feet cooler on warm runs. Available in three seasonal colourways.",
+  "based_on": [
+    "upper: engineered mesh"
+  ],
+  "reason": "The 'upper' spec confirms engineered mesh, which is known for breathability and temperature management.",
+  "from_description": "A rounded silhouette with a broad base and a moulded sockliner. Available in three seasonal colourways.",
+  "claims": [
+    {
+      "sentence": "The engineered mesh upper is breathable, helping to keep your feet cooler on warm runs.",
+      "spec_fields": [
+        "upper"
+      ]
+    }
+  ],
+  "applied": "description_updated"
+}

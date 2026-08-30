@@ -1,0 +1,25 @@
+{
+  "id": "prop_154",
+  "created_at": "2026-08-29T13:18:33.067347+00:00",
+  "status": "pending",
+  "gap_id": "gap_154",
+  "product_id": "sku_014",
+  "intent": "Grip and versatility for mixed surfaces",
+  "action": "rewrite",
+  "new_description": "A pared-back off-road silhouette with a streamlined profile and a low-cut collar. Finished with a moulded heel clip. The 4mm lugs on the outsole provide grip for trail surfaces.",
+  "based_on": [
+    "outsole: 4mm lugs",
+    "surface: trail"
+  ],
+  "reason": "The outsole and surface specs support a claim about grip on trail surfaces, but there is no evidence for versatility on mixed surfaces beyond trail.",
+  "from_description": "A pared-back off-road silhouette with a streamlined profile and a low-cut collar. Finished with a moulded heel clip.",
+  "claims": [
+    {
+      "sentence": "The 4mm lugs on the outsole provide grip for trail surfaces.",
+      "spec_fields": [
+        "outsole",
+        "surface"
+      ]
+    }
+  ]
+}

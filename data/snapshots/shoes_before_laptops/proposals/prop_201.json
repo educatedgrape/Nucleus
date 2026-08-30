@@ -1,0 +1,17 @@
+{
+  "id": "prop_201",
+  "created_at": "2026-08-29T13:18:42.014131+00:00",
+  "status": "pending",
+  "gap_id": "gap_201",
+  "product_id": "sku_023",
+  "intent": "Minimalist or simple design preferences",
+  "action": "flag",
+  "new_description": null,
+  "based_on": [],
+  "reason": "Downgraded automatically: proposed copy could not be traced to the specs.",
+  "downgraded_from": "rewrite",
+  "rejected_description": "A 7-pin track spike for 1500m to 5000m on synthetic surfaces. Supplied with a spike key and a set of 6mm pyramid pins. With no cushioning or midsole, this spike offers a minimalist feel for runners who prefer simplicity and direct ground contact.",
+  "traceability_failures": [
+    "claims cushioning, which this product's specs do not support: 'With no cushioning or midsole, this spike offers a minimalist feel for runners who prefer simplicity and direct ground contact.'"
+  ]
+}

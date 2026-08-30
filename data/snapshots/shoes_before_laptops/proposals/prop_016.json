@@ -1,0 +1,19 @@
+{
+  "id": "prop_016",
+  "created_at": "2026-08-29T13:18:18.298152+00:00",
+  "status": "approved",
+  "gap_id": "gap_016",
+  "product_id": "sku_003",
+  "intent": "Comfort and fit for wide feet during long runs",
+  "action": "no_change",
+  "new_description": null,
+  "based_on": [],
+  "reason": "Already surfaces for this intent; the description is doing its job. No change necessary.",
+  "link": {
+    "intent": "Comfort and fit for wide feet during long runs",
+    "round": 1,
+    "evidenced_by": "First time training for a half marathon—what neutral running shoes are best for wide feet and daily use?",
+    "rank": 5
+  },
+  "applied": "semantic_link_recorded"
+}

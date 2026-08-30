@@ -1,0 +1,19 @@
+{
+  "id": "prop_051",
+  "created_at": "2026-08-29T13:18:18.379681+00:00",
+  "status": "approved",
+  "gap_id": "gap_051",
+  "product_id": "sku_007",
+  "intent": "Style and appearance for wide-fit running shoes",
+  "action": "no_change",
+  "new_description": null,
+  "based_on": [],
+  "reason": "Already surfaces for this intent; the description is doing its job. No change necessary.",
+  "link": {
+    "intent": "Style and appearance for wide-fit running shoes",
+    "round": 1,
+    "evidenced_by": "Looking for running shoes for wide feet that don’t look clunky—anything stylish for daily training?",
+    "rank": 4
+  },
+  "applied": "semantic_link_recorded"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sku_018",
+  "name": "Levitate Zero",
+  "price": 152,
+  "specs": {
+    "weight_g": 232,
+    "drop_mm": 2,
+    "stack_height_mm": 23,
+    "upper": "knit",
+    "midsole": "EVA",
+    "outsole": "blown rubber",
+    "plate": "none",
+    "surface": "road",
+    "waterproof": false,
+    "cushioning": "firm"
+  },
+  "description": "A slim, flexible trainer with a one-piece upper and a smooth ride. Minimal overlays.",
+  "edit_history": [],
+  "semantic_links": []
+}

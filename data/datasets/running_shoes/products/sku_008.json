@@ -1,0 +1,20 @@
+{
+  "id": "sku_008",
+  "name": "Boulder Trail",
+  "price": 160,
+  "specs": {
+    "weight_g": 300,
+    "drop_mm": 6,
+    "stack_height_mm": 27,
+    "upper": "ripstop",
+    "midsole": "EVA",
+    "outsole": "5mm aggressive lugs",
+    "plate": "rock plate",
+    "surface": "trail",
+    "waterproof": false,
+    "cushioning": "moderate"
+  },
+  "description": "An off-road model with a reinforced toe bumper and a gusseted tongue to keep debris out. Lace garage at the tongue.",
+  "edit_history": [],
+  "semantic_links": []
+}

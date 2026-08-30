@@ -1,0 +1,19 @@
+{
+  "id": "prop_011",
+  "created_at": "2026-08-29T13:18:18.288862+00:00",
+  "status": "approved",
+  "gap_id": "gap_011",
+  "product_id": "sku_024",
+  "intent": "Durability and longevity for frequent training",
+  "action": "no_change",
+  "new_description": null,
+  "based_on": [],
+  "reason": "Already surfaces for this intent; the description is doing its job. No change necessary.",
+  "link": {
+    "intent": "Durability and longevity for frequent training",
+    "round": 1,
+    "evidenced_by": "What are the lightest neutral trainers for wide feet that can handle 5 runs a week and cost less than $160?",
+    "rank": 4
+  },
+  "applied": "semantic_link_recorded"
+}

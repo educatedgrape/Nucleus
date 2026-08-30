@@ -1,0 +1,33 @@
+{
+  "id": "sku_018",
+  "name": "Levitate Zero",
+  "price": 152,
+  "specs": {
+    "weight_g": 232,
+    "drop_mm": 2,
+    "stack_height_mm": 23,
+    "upper": "knit",
+    "midsole": "EVA",
+    "outsole": "blown rubber",
+    "plate": "none",
+    "surface": "road",
+    "waterproof": false,
+    "cushioning": "firm"
+  },
+  "description": "A slim, flexible trainer with a one-piece upper and a smooth ride. Minimal overlays.",
+  "edit_history": [],
+  "semantic_links": [
+    {
+      "intent": "Durability and longevity for frequent training",
+      "round": 1,
+      "evidenced_by": "I’ve worn out my current wide trainers—what’s a good upgrade for daily half marathon training under $160?",
+      "rank": 3
+    },
+    {
+      "intent": "Comfort and fit for wide feet during long runs",
+      "round": 1,
+      "evidenced_by": "I want to add a second pair to my rotation for half marathon training—what’s a good wide-fit neutral trainer under $160?",
+      "rank": 1
+    }
+  ]
+}

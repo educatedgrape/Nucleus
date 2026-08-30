@@ -1,0 +1,2138 @@
+{
+  "round": 1,
+  "generated_at": "2026-08-29T13:12:25.380261+00:00",
+  "dataset": "running_shoes",
+  "search_k": 5,
+  "totals": {
+    "products": 26,
+    "queries": 30,
+    "surfaced": 15,
+    "never_surfaced": 11
+  },
+  "intents": [
+    {
+      "label": "Durability and longevity for frequent training",
+      "count": 8,
+      "examples": [
+        "Are there any wide running shoes for half marathon training that are under $120 but still last for daily runs?",
+        "What are the lightest neutral trainers for wide feet that can handle 5 runs a week and cost less than $160?",
+        "Which running shoes for wide feet will actually last through 5 days a week of half marathon training?"
+      ]
+    },
+    {
+      "label": "Comfort and fit for wide feet during long runs",
+      "count": 6,
+      "examples": [
+        "I have a half marathon in 3 weeks—what wide, comfortable trainers can I break in quickly for daily runs?",
+        "First time training for a half marathon—what neutral running shoes are best for wide feet and daily use?",
+        "My feet swell a lot in the summer—what running shoes have the most forefoot space and stay comfortable for long runs?"
+      ]
+    },
+    {
+      "label": "Breathability and temperature management (hot/cold/wet)",
+      "count": 6,
+      "examples": [
+        "Looking for running shoes that stay cool and have a wide toe box for summer half marathon training",
+        "Are there any neutral running shoes for wide feet that won’t get soaked or slippery in the rain? I train outside even when it’s wet.",
+        "I travel a lot for work—what’s a good neutral running shoe for wide feet that packs easily and dries fast?"
+      ]
+    },
+    {
+      "label": "Budget-friendly options for wide feet",
+      "count": 1,
+      "examples": [
+        "Looking for a gift: what running shoes would suit someone training for a half marathon, with wide feet and a tight budget?"
+      ]
+    },
+    {
+      "label": "Grip and versatility for mixed surfaces",
+      "count": 2,
+      "examples": [
+        "Best neutral trainers for wide feet that grip well on both pavement and occasional towpath runs?",
+        "I mostly run on roads but sometimes hit gravel towpaths—what neutral trainers work for both, especially for wide feet?"
+      ]
+    },
+    {
+      "label": "Style and appearance for wide-fit running shoes",
+      "count": 1,
+      "examples": [
+        "Looking for running shoes for wide feet that don’t look clunky—anything stylish for daily training?"
+      ]
+    },
+    {
+      "label": "Sustainability and eco-friendly materials",
+      "count": 1,
+      "examples": [
+        "Are there any sustainable or recycled-material running shoes for wide feet that can handle half marathon training?"
+      ]
+    },
+    {
+      "label": "Minimalist or simple design preferences",
+      "count": 2,
+      "examples": [
+        "I’m interested in a more minimal shoe but still need cushioning and a wide toe box for long road runs—any suggestions?",
+        "I don’t want a shoe with a lot of gimmicks or tech—just a simple, reliable neutral trainer for wide feet. Any recommendations?"
+      ]
+    },
+    {
+      "label": "Support and injury recovery for wide feet",
+      "count": 1,
+      "examples": [
+        "Coming back from a mild foot injury—what neutral trainers for wide feet offer good support but aren’t too stiff?"
+      ]
+    },
+    {
+      "label": "Advanced technology and new materials",
+      "count": 1,
+      "examples": [
+        "Are there any new running shoes with advanced materials or tech that are good for wide feet and frequent training?"
+      ]
+    },
+    {
+      "label": "Visibility and safety for night running",
+      "count": 1,
+      "examples": [
+        "Best running shoes for wide feet and high visibility? I run after dark on roads and want something reflective."
+      ]
+    }
+  ],
+  "never_surfaced": [
+    {
+      "product_id": "sku_005",
+      "missed": [
+        "Durability and longevity for frequent training",
+        "Comfort and fit for wide feet during long runs",
+        "Breathability and temperature management (hot/cold/wet)",
+        "Budget-friendly options for wide feet",
+        "Style and appearance for wide-fit running shoes",
+        "Sustainability and eco-friendly materials",
+        "Minimalist or simple design preferences",
+        "Support and injury recovery for wide feet",
+        "Advanced technology and new materials",
+        "Visibility and safety for night running"
+      ]
+    },
+    {
+      "product_id": "sku_006",
+      "missed": [
+        "Durability and longevity for frequent training",
+        "Comfort and fit for wide feet during long runs",
+        "Breathability and temperature management (hot/cold/wet)",
+        "Style and appearance for wide-fit running shoes",
+        "Sustainability and eco-friendly materials",
+        "Minimalist or simple design preferences",
+        "Support and injury recovery for wide feet",
+        "Advanced technology and new materials",
+        "Visibility and safety for night running"
+      ]
+    },
+    {
+      "product_id": "sku_008",
+      "missed": [
+        "Durability and longevity for frequent training",
+        "Comfort and fit for wide feet during long runs",
+        "Breathability and temperature management (hot/cold/wet)",
+        "Budget-friendly options for wide feet",
+        "Grip and versatility for mixed surfaces",
+        "Style and appearance for wide-fit running shoes",
+        "Sustainability and eco-friendly materials",
+        "Support and injury recovery for wide feet",
+        "Advanced technology and new materials",
+        "Visibility and safety for night running"
+      ]
+    },
+    {
+      "product_id": "sku_009",
+      "missed": [
+        "Durability and longevity for frequent training",
+        "Comfort and fit for wide feet during long runs",
+        "Breathability and temperature management (hot/cold/wet)",
+        "Budget-friendly options for wide feet",
+        "Grip and versatility for mixed surfaces",
+        "Style and appearance for wide-fit running shoes",
+        "Sustainability and eco-friendly materials",
+        "Support and injury recovery for wide feet",
+        "Advanced technology and new materials",
+        "Visibility and safety for night running"
+      ]
+    },
+    {
+      "product_id": "sku_011",
+      "missed": [
+        "Durability and longevity for frequent training",
+        "Comfort and fit for wide feet during long runs",
+        "Breathability and temperature management (hot/cold/wet)",
+        "Budget-friendly options for wide feet",
+        "Style and appearance for wide-fit running shoes",
+        "Sustainability and eco-friendly materials",
+        "Minimalist or simple design preferences",
+        "Support and injury recovery for wide feet",
+        "Advanced technology and new materials",
+        "Visibility and safety for night running"
+      ]
+    },
+    {
+      "product_id": "sku_013",
+      "missed": [
+        "Durability and longevity for frequent training",
+        "Comfort and fit for wide feet during long runs",
+        "Breathability and temperature management (hot/cold/wet)",
+        "Budget-friendly options for wide feet",
+        "Grip and versatility for mixed surfaces",
+        "Style and appearance for wide-fit running shoes",
+        "Sustainability and eco-friendly materials",
+        "Minimalist or simple design preferences",
+        "Support and injury recovery for wide feet",
+        "Advanced technology and new materials",
+        "Visibility and safety for night running"
+      ]
+    },
+    {
+      "product_id": "sku_014",
+      "missed": [
+        "Durability and longevity for frequent training",
+        "Comfort and fit for wide feet during long runs",
+        "Breathability and temperature management (hot/cold/wet)",
+        "Budget-friendly options for wide feet",
+        "Grip and versatility for mixed surfaces",
+        "Style and appearance for wide-fit running shoes",
+        "Sustainability and eco-friendly materials",
+        "Minimalist or simple design preferences",
+        "Support and injury recovery for wide feet",
+        "Advanced technology and new materials",
+        "Visibility and safety for night running"
+      ]
+    },
+    {
+      "product_id": "sku_016",
+      "missed": [
+        "Durability and longevity for frequent training",
+        "Comfort and fit for wide feet during long runs",
+        "Breathability and temperature management (hot/cold/wet)",
+        "Budget-friendly options for wide feet",
+        "Style and appearance for wide-fit running shoes",
+        "Sustainability and eco-friendly materials",
+        "Support and injury recovery for wide feet",
+        "Advanced technology and new materials",
+        "Visibility and safety for night running"
+      ]
+    },
+    {
+      "product_id": "sku_017",
+      "missed": [
+        "Durability and longevity for frequent training",
+        "Comfort and fit for wide feet during long runs",
+        "Breathability and temperature management (hot/cold/wet)",
+        "Budget-friendly options for wide feet",
+        "Style and appearance for wide-fit running shoes",
+        "Sustainability and eco-friendly materials",
+        "Minimalist or simple design preferences",
+        "Support and injury recovery for wide feet",
+        "Visibility and safety for night running"
+      ]
+    },
+    {
+      "product_id": "sku_021",
+      "missed": [
+        "Durability and longevity for frequent training",
+        "Comfort and fit for wide feet during long runs",
+        "Breathability and temperature management (hot/cold/wet)",
+        "Budget-friendly options for wide feet",
+        "Style and appearance for wide-fit running shoes",
+        "Sustainability and eco-friendly materials",
+        "Support and injury recovery for wide feet",
+        "Advanced technology and new materials",
+        "Visibility and safety for night running"
+      ]
+    },
+    {
+      "product_id": "sku_023",
+      "missed": [
+        "Durability and longevity for frequent training",
+        "Comfort and fit for wide feet during long runs",
+        "Breathability and temperature management (hot/cold/wet)",
+        "Budget-friendly options for wide feet",
+        "Style and appearance for wide-fit running shoes",
+        "Sustainability and eco-friendly materials",
+        "Minimalist or simple design preferences",
+        "Support and injury recovery for wide feet",
+        "Advanced technology and new materials",
+        "Visibility and safety for night running"
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "id": "gap_001",
+      "product_id": "sku_001",
+      "intent": "Durability and longevity for frequent training",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "What are the lightest neutral trainers for wide feet that can handle 5 runs a week and cost less than $160?",
+      "rank": 5
+    },
+    {
+      "id": "gap_002",
+      "product_id": "sku_002",
+      "intent": "Durability and longevity for frequent training",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "I’ve worn out my current wide trainers—what’s a good upgrade for daily half marathon training under $160?",
+      "rank": 5
+    },
+    {
+      "id": "gap_003",
+      "product_id": "sku_003",
+      "intent": "Durability and longevity for frequent training",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Are there any wide running shoes for half marathon training that are under $120 but still last for daily runs?",
+      "rank": 5
+    },
+    {
+      "id": "gap_004",
+      "product_id": "sku_004",
+      "intent": "Durability and longevity for frequent training",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Are there any wide running shoes for half marathon training that are under $120 but still last for daily runs?",
+      "rank": 1
+    },
+    {
+      "id": "gap_005",
+      "product_id": "sku_007",
+      "intent": "Durability and longevity for frequent training",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Are there any wide running shoes for half marathon training that are under $120 but still last for daily runs?",
+      "rank": 3
+    },
+    {
+      "id": "gap_006",
+      "product_id": "sku_010",
+      "intent": "Durability and longevity for frequent training",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Are there any wide running shoes for half marathon training that are under $120 but still last for daily runs?",
+      "rank": 4
+    },
+    {
+      "id": "gap_007",
+      "product_id": "sku_012",
+      "intent": "Durability and longevity for frequent training",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "What are the lightest neutral trainers for wide feet that can handle 5 runs a week and cost less than $160?",
+      "rank": 1
+    },
+    {
+      "id": "gap_008",
+      "product_id": "sku_015",
+      "intent": "Durability and longevity for frequent training",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Which running shoes for wide feet will actually last through 5 days a week of half marathon training?",
+      "rank": 4
+    },
+    {
+      "id": "gap_009",
+      "product_id": "sku_018",
+      "intent": "Durability and longevity for frequent training",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "I’ve worn out my current wide trainers—what’s a good upgrade for daily half marathon training under $160?",
+      "rank": 3
+    },
+    {
+      "id": "gap_010",
+      "product_id": "sku_020",
+      "intent": "Durability and longevity for frequent training",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "What are the lightest neutral trainers for wide feet that can handle 5 runs a week and cost less than $160?",
+      "rank": 3
+    },
+    {
+      "id": "gap_011",
+      "product_id": "sku_024",
+      "intent": "Durability and longevity for frequent training",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "What are the lightest neutral trainers for wide feet that can handle 5 runs a week and cost less than $160?",
+      "rank": 4
+    },
+    {
+      "id": "gap_012",
+      "product_id": "sku_025",
+      "intent": "Durability and longevity for frequent training",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Are there any wide running shoes for half marathon training that are under $120 but still last for daily runs?",
+      "rank": 2
+    },
+    {
+      "id": "gap_013",
+      "product_id": "sku_026",
+      "intent": "Durability and longevity for frequent training",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "What are the lightest neutral trainers for wide feet that can handle 5 runs a week and cost less than $160?",
+      "rank": 2
+    },
+    {
+      "id": "gap_014",
+      "product_id": "sku_001",
+      "intent": "Comfort and fit for wide feet during long runs",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "I have a half marathon in 3 weeks—what wide, comfortable trainers can I break in quickly for daily runs?",
+      "rank": 2
+    },
+    {
+      "id": "gap_015",
+      "product_id": "sku_002",
+      "intent": "Comfort and fit for wide feet during long runs",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "I have a half marathon in 3 weeks—what wide, comfortable trainers can I break in quickly for daily runs?",
+      "rank": 5
+    },
+    {
+      "id": "gap_016",
+      "product_id": "sku_003",
+      "intent": "Comfort and fit for wide feet during long runs",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "First time training for a half marathon—what neutral running shoes are best for wide feet and daily use?",
+      "rank": 5
+    },
+    {
+      "id": "gap_017",
+      "product_id": "sku_004",
+      "intent": "Comfort and fit for wide feet during long runs",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "I have a half marathon in 3 weeks—what wide, comfortable trainers can I break in quickly for daily runs?",
+      "rank": 1
+    },
+    {
+      "id": "gap_018",
+      "product_id": "sku_007",
+      "intent": "Comfort and fit for wide feet during long runs",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "First time training for a half marathon—what neutral running shoes are best for wide feet and daily use?",
+      "rank": 4
+    },
+    {
+      "id": "gap_019",
+      "product_id": "sku_010",
+      "intent": "Comfort and fit for wide feet during long runs",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "My feet swell a lot in the summer—what running shoes have the most forefoot space and stay comfortable for long runs?",
+      "rank": 5
+    },
+    {
+      "id": "gap_020",
+      "product_id": "sku_012",
+      "intent": "Comfort and fit for wide feet during long runs",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Are there neutral trainers for wide feet with a bit more arch support, but still roomy and good for long runs?",
+      "rank": 4
+    },
+    {
+      "id": "gap_021",
+      "product_id": "sku_015",
+      "intent": "Comfort and fit for wide feet during long runs",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "First time training for a half marathon—what neutral running shoes are best for wide feet and daily use?",
+      "rank": 3
+    },
+    {
+      "id": "gap_022",
+      "product_id": "sku_018",
+      "intent": "Comfort and fit for wide feet during long runs",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "I want to add a second pair to my rotation for half marathon training—what’s a good wide-fit neutral trainer under $160?",
+      "rank": 1
+    },
+    {
+      "id": "gap_023",
+      "product_id": "sku_020",
+      "intent": "Comfort and fit for wide feet during long runs",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "I have a half marathon in 3 weeks—what wide, comfortable trainers can I break in quickly for daily runs?",
+      "rank": 3
+    },
+    {
+      "id": "gap_024",
+      "product_id": "sku_024",
+      "intent": "Comfort and fit for wide feet during long runs",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Are there neutral trainers for wide feet with a bit more arch support, but still roomy and good for long runs?",
+      "rank": 5
+    },
+    {
+      "id": "gap_025",
+      "product_id": "sku_025",
+      "intent": "Comfort and fit for wide feet during long runs",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "First time training for a half marathon—what neutral running shoes are best for wide feet and daily use?",
+      "rank": 2
+    },
+    {
+      "id": "gap_026",
+      "product_id": "sku_026",
+      "intent": "Comfort and fit for wide feet during long runs",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "I have a half marathon in 3 weeks—what wide, comfortable trainers can I break in quickly for daily runs?",
+      "rank": 4
+    },
+    {
+      "id": "gap_027",
+      "product_id": "sku_001",
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "I run early in the morning when it’s still cool and sometimes damp—what neutral trainers are comfortable for wide feet and won’t get soggy or heavy?",
+      "rank": 2
+    },
+    {
+      "id": "gap_028",
+      "product_id": "sku_003",
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Are there any neutral running shoes for wide feet that won’t get soaked or slippery in the rain? I train outside even when it’s wet.",
+      "rank": 4
+    },
+    {
+      "id": "gap_029",
+      "product_id": "sku_004",
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Looking for running shoes that stay cool and have a wide toe box for summer half marathon training",
+      "rank": 1
+    },
+    {
+      "id": "gap_030",
+      "product_id": "sku_007",
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Looking for running shoes that stay cool and have a wide toe box for summer half marathon training",
+      "rank": 2
+    },
+    {
+      "id": "gap_031",
+      "product_id": "sku_010",
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Looking for running shoes that stay cool and have a wide toe box for summer half marathon training",
+      "rank": 4
+    },
+    {
+      "id": "gap_032",
+      "product_id": "sku_012",
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "I run early in the morning when it’s still cool and sometimes damp—what neutral trainers are comfortable for wide feet and won’t get soggy or heavy?",
+      "rank": 5
+    },
+    {
+      "id": "gap_033",
+      "product_id": "sku_015",
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "I travel a lot for work—what’s a good neutral running shoe for wide feet that packs easily and dries fast?",
+      "rank": 4
+    },
+    {
+      "id": "gap_034",
+      "product_id": "sku_020",
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "I run early in the morning when it’s still cool and sometimes damp—what neutral trainers are comfortable for wide feet and won’t get soggy or heavy?",
+      "rank": 4
+    },
+    {
+      "id": "gap_035",
+      "product_id": "sku_022",
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Looking for running shoes that stay cool and have a wide toe box for summer half marathon training",
+      "rank": 5
+    },
+    {
+      "id": "gap_036",
+      "product_id": "sku_025",
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Looking for running shoes that stay cool and have a wide toe box for summer half marathon training",
+      "rank": 3
+    },
+    {
+      "id": "gap_037",
+      "product_id": "sku_026",
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "I run early in the morning when it’s still cool and sometimes damp—what neutral trainers are comfortable for wide feet and won’t get soggy or heavy?",
+      "rank": 3
+    },
+    {
+      "id": "gap_038",
+      "product_id": "sku_004",
+      "intent": "Budget-friendly options for wide feet",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Looking for a gift: what running shoes would suit someone training for a half marathon, with wide feet and a tight budget?",
+      "rank": 2
+    },
+    {
+      "id": "gap_039",
+      "product_id": "sku_007",
+      "intent": "Budget-friendly options for wide feet",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Looking for a gift: what running shoes would suit someone training for a half marathon, with wide feet and a tight budget?",
+      "rank": 3
+    },
+    {
+      "id": "gap_040",
+      "product_id": "sku_010",
+      "intent": "Budget-friendly options for wide feet",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Looking for a gift: what running shoes would suit someone training for a half marathon, with wide feet and a tight budget?",
+      "rank": 4
+    },
+    {
+      "id": "gap_041",
+      "product_id": "sku_020",
+      "intent": "Budget-friendly options for wide feet",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Looking for a gift: what running shoes would suit someone training for a half marathon, with wide feet and a tight budget?",
+      "rank": 5
+    },
+    {
+      "id": "gap_042",
+      "product_id": "sku_025",
+      "intent": "Budget-friendly options for wide feet",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Looking for a gift: what running shoes would suit someone training for a half marathon, with wide feet and a tight budget?",
+      "rank": 1
+    },
+    {
+      "id": "gap_043",
+      "product_id": "sku_001",
+      "intent": "Grip and versatility for mixed surfaces",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "I mostly run on roads but sometimes hit gravel towpaths—what neutral trainers work for both, especially for wide feet?",
+      "rank": 4
+    },
+    {
+      "id": "gap_044",
+      "product_id": "sku_012",
+      "intent": "Grip and versatility for mixed surfaces",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Best neutral trainers for wide feet that grip well on both pavement and occasional towpath runs?",
+      "rank": 4
+    },
+    {
+      "id": "gap_045",
+      "product_id": "sku_019",
+      "intent": "Grip and versatility for mixed surfaces",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Best neutral trainers for wide feet that grip well on both pavement and occasional towpath runs?",
+      "rank": 2
+    },
+    {
+      "id": "gap_046",
+      "product_id": "sku_020",
+      "intent": "Grip and versatility for mixed surfaces",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Best neutral trainers for wide feet that grip well on both pavement and occasional towpath runs?",
+      "rank": 3
+    },
+    {
+      "id": "gap_047",
+      "product_id": "sku_024",
+      "intent": "Grip and versatility for mixed surfaces",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Best neutral trainers for wide feet that grip well on both pavement and occasional towpath runs?",
+      "rank": 5
+    },
+    {
+      "id": "gap_048",
+      "product_id": "sku_026",
+      "intent": "Grip and versatility for mixed surfaces",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Best neutral trainers for wide feet that grip well on both pavement and occasional towpath runs?",
+      "rank": 1
+    },
+    {
+      "id": "gap_049",
+      "product_id": "sku_003",
+      "intent": "Style and appearance for wide-fit running shoes",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Looking for running shoes for wide feet that don’t look clunky—anything stylish for daily training?",
+      "rank": 5
+    },
+    {
+      "id": "gap_050",
+      "product_id": "sku_004",
+      "intent": "Style and appearance for wide-fit running shoes",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Looking for running shoes for wide feet that don’t look clunky—anything stylish for daily training?",
+      "rank": 3
+    },
+    {
+      "id": "gap_051",
+      "product_id": "sku_007",
+      "intent": "Style and appearance for wide-fit running shoes",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Looking for running shoes for wide feet that don’t look clunky—anything stylish for daily training?",
+      "rank": 4
+    },
+    {
+      "id": "gap_052",
+      "product_id": "sku_015",
+      "intent": "Style and appearance for wide-fit running shoes",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Looking for running shoes for wide feet that don’t look clunky—anything stylish for daily training?",
+      "rank": 2
+    },
+    {
+      "id": "gap_053",
+      "product_id": "sku_025",
+      "intent": "Style and appearance for wide-fit running shoes",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Looking for running shoes for wide feet that don’t look clunky—anything stylish for daily training?",
+      "rank": 1
+    },
+    {
+      "id": "gap_054",
+      "product_id": "sku_003",
+      "intent": "Sustainability and eco-friendly materials",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Are there any sustainable or recycled-material running shoes for wide feet that can handle half marathon training?",
+      "rank": 5
+    },
+    {
+      "id": "gap_055",
+      "product_id": "sku_004",
+      "intent": "Sustainability and eco-friendly materials",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Are there any sustainable or recycled-material running shoes for wide feet that can handle half marathon training?",
+      "rank": 1
+    },
+    {
+      "id": "gap_056",
+      "product_id": "sku_007",
+      "intent": "Sustainability and eco-friendly materials",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Are there any sustainable or recycled-material running shoes for wide feet that can handle half marathon training?",
+      "rank": 3
+    },
+    {
+      "id": "gap_057",
+      "product_id": "sku_010",
+      "intent": "Sustainability and eco-friendly materials",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Are there any sustainable or recycled-material running shoes for wide feet that can handle half marathon training?",
+      "rank": 4
+    },
+    {
+      "id": "gap_058",
+      "product_id": "sku_025",
+      "intent": "Sustainability and eco-friendly materials",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Are there any sustainable or recycled-material running shoes for wide feet that can handle half marathon training?",
+      "rank": 2
+    },
+    {
+      "id": "gap_059",
+      "product_id": "sku_004",
+      "intent": "Minimalist or simple design preferences",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "I’m interested in a more minimal shoe but still need cushioning and a wide toe box for long road runs—any suggestions?",
+      "rank": 1
+    },
+    {
+      "id": "gap_060",
+      "product_id": "sku_007",
+      "intent": "Minimalist or simple design preferences",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "I’m interested in a more minimal shoe but still need cushioning and a wide toe box for long road runs—any suggestions?",
+      "rank": 3
+    },
+    {
+      "id": "gap_061",
+      "product_id": "sku_010",
+      "intent": "Minimalist or simple design preferences",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "I’m interested in a more minimal shoe but still need cushioning and a wide toe box for long road runs—any suggestions?",
+      "rank": 4
+    },
+    {
+      "id": "gap_062",
+      "product_id": "sku_012",
+      "intent": "Minimalist or simple design preferences",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "I don’t want a shoe with a lot of gimmicks or tech—just a simple, reliable neutral trainer for wide feet. Any recommendations?",
+      "rank": 2
+    },
+    {
+      "id": "gap_063",
+      "product_id": "sku_015",
+      "intent": "Minimalist or simple design preferences",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "I’m interested in a more minimal shoe but still need cushioning and a wide toe box for long road runs—any suggestions?",
+      "rank": 5
+    },
+    {
+      "id": "gap_064",
+      "product_id": "sku_019",
+      "intent": "Minimalist or simple design preferences",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "I don’t want a shoe with a lot of gimmicks or tech—just a simple, reliable neutral trainer for wide feet. Any recommendations?",
+      "rank": 5
+    },
+    {
+      "id": "gap_065",
+      "product_id": "sku_020",
+      "intent": "Minimalist or simple design preferences",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "I don’t want a shoe with a lot of gimmicks or tech—just a simple, reliable neutral trainer for wide feet. Any recommendations?",
+      "rank": 4
+    },
+    {
+      "id": "gap_066",
+      "product_id": "sku_024",
+      "intent": "Minimalist or simple design preferences",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "I don’t want a shoe with a lot of gimmicks or tech—just a simple, reliable neutral trainer for wide feet. Any recommendations?",
+      "rank": 1
+    },
+    {
+      "id": "gap_067",
+      "product_id": "sku_025",
+      "intent": "Minimalist or simple design preferences",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "I’m interested in a more minimal shoe but still need cushioning and a wide toe box for long road runs—any suggestions?",
+      "rank": 2
+    },
+    {
+      "id": "gap_068",
+      "product_id": "sku_026",
+      "intent": "Minimalist or simple design preferences",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "I don’t want a shoe with a lot of gimmicks or tech—just a simple, reliable neutral trainer for wide feet. Any recommendations?",
+      "rank": 3
+    },
+    {
+      "id": "gap_069",
+      "product_id": "sku_004",
+      "intent": "Support and injury recovery for wide feet",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Coming back from a mild foot injury—what neutral trainers for wide feet offer good support but aren’t too stiff?",
+      "rank": 5
+    },
+    {
+      "id": "gap_070",
+      "product_id": "sku_012",
+      "intent": "Support and injury recovery for wide feet",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Coming back from a mild foot injury—what neutral trainers for wide feet offer good support but aren’t too stiff?",
+      "rank": 2
+    },
+    {
+      "id": "gap_071",
+      "product_id": "sku_020",
+      "intent": "Support and injury recovery for wide feet",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Coming back from a mild foot injury—what neutral trainers for wide feet offer good support but aren’t too stiff?",
+      "rank": 3
+    },
+    {
+      "id": "gap_072",
+      "product_id": "sku_024",
+      "intent": "Support and injury recovery for wide feet",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Coming back from a mild foot injury—what neutral trainers for wide feet offer good support but aren’t too stiff?",
+      "rank": 4
+    },
+    {
+      "id": "gap_073",
+      "product_id": "sku_026",
+      "intent": "Support and injury recovery for wide feet",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Coming back from a mild foot injury—what neutral trainers for wide feet offer good support but aren’t too stiff?",
+      "rank": 1
+    },
+    {
+      "id": "gap_074",
+      "product_id": "sku_004",
+      "intent": "Advanced technology and new materials",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Are there any new running shoes with advanced materials or tech that are good for wide feet and frequent training?",
+      "rank": 1
+    },
+    {
+      "id": "gap_075",
+      "product_id": "sku_007",
+      "intent": "Advanced technology and new materials",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Are there any new running shoes with advanced materials or tech that are good for wide feet and frequent training?",
+      "rank": 5
+    },
+    {
+      "id": "gap_076",
+      "product_id": "sku_010",
+      "intent": "Advanced technology and new materials",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Are there any new running shoes with advanced materials or tech that are good for wide feet and frequent training?",
+      "rank": 3
+    },
+    {
+      "id": "gap_077",
+      "product_id": "sku_015",
+      "intent": "Advanced technology and new materials",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Are there any new running shoes with advanced materials or tech that are good for wide feet and frequent training?",
+      "rank": 2
+    },
+    {
+      "id": "gap_078",
+      "product_id": "sku_025",
+      "intent": "Advanced technology and new materials",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Are there any new running shoes with advanced materials or tech that are good for wide feet and frequent training?",
+      "rank": 4
+    },
+    {
+      "id": "gap_079",
+      "product_id": "sku_004",
+      "intent": "Visibility and safety for night running",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Best running shoes for wide feet and high visibility? I run after dark on roads and want something reflective.",
+      "rank": 3
+    },
+    {
+      "id": "gap_080",
+      "product_id": "sku_007",
+      "intent": "Visibility and safety for night running",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Best running shoes for wide feet and high visibility? I run after dark on roads and want something reflective.",
+      "rank": 1
+    },
+    {
+      "id": "gap_081",
+      "product_id": "sku_015",
+      "intent": "Visibility and safety for night running",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Best running shoes for wide feet and high visibility? I run after dark on roads and want something reflective.",
+      "rank": 4
+    },
+    {
+      "id": "gap_082",
+      "product_id": "sku_022",
+      "intent": "Visibility and safety for night running",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Best running shoes for wide feet and high visibility? I run after dark on roads and want something reflective.",
+      "rank": 5
+    },
+    {
+      "id": "gap_083",
+      "product_id": "sku_025",
+      "intent": "Visibility and safety for night running",
+      "type": "already_covered",
+      "supporting_specs": [],
+      "rationale": "Already surfaces for this intent; the description is doing its job.",
+      "evidenced_by": "Best running shoes for wide feet and high visibility? I run after dark on roads and want something reflective.",
+      "rank": 2
+    },
+    {
+      "id": "gap_084",
+      "product_id": "sku_005",
+      "intent": "Durability and longevity for frequent training",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs address durability, outsole wear, or warranty; nothing supports this intent."
+    },
+    {
+      "id": "gap_085",
+      "product_id": "sku_005",
+      "intent": "Comfort and fit for wide feet during long runs",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs on toe box width, available widths, or fit; cannot support claims for wide feet."
+    },
+    {
+      "id": "gap_086",
+      "product_id": "sku_005",
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "type": "fixable",
+      "supporting_specs": [
+        "upper"
+      ],
+      "rationale": "The 'engineered mesh' upper supports breathability, but this is not mentioned in the description."
+    },
+    {
+      "id": "gap_087",
+      "product_id": "sku_005",
+      "intent": "Budget-friendly options for wide feet",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs on wide fit; price is present but nothing about fit for wide feet."
+    },
+    {
+      "id": "gap_088",
+      "product_id": "sku_005",
+      "intent": "Grip and versatility for mixed surfaces",
+      "type": "not_applicable",
+      "supporting_specs": [
+        "surface"
+      ],
+      "rationale": "Surface is 'road' only; not designed for mixed surfaces, so this is a product gap."
+    },
+    {
+      "id": "gap_089",
+      "product_id": "sku_005",
+      "intent": "Style and appearance for wide-fit running shoes",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs on wide fit; style is described but not in the context of wide-fit shoes."
+    },
+    {
+      "id": "gap_090",
+      "product_id": "sku_005",
+      "intent": "Sustainability and eco-friendly materials",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs on recycled, sustainable, or vegan materials; nothing supports this intent."
+    },
+    {
+      "id": "gap_091",
+      "product_id": "sku_005",
+      "intent": "Minimalist or simple design preferences",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "The description mentions 'monochrome upper with tonal branding,' supporting a minimalist aesthetic."
+    },
+    {
+      "id": "gap_092",
+      "product_id": "sku_005",
+      "intent": "Support and injury recovery for wide feet",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs on wide fit, arch support, or stability; nothing supports this intent."
+    },
+    {
+      "id": "gap_093",
+      "product_id": "sku_005",
+      "intent": "Advanced technology and new materials",
+      "type": "fixable",
+      "supporting_specs": [
+        "midsole"
+      ],
+      "rationale": "The 'supercritical EVA' midsole is an advanced material, but this is not highlighted in the description."
+    },
+    {
+      "id": "gap_094",
+      "product_id": "sku_005",
+      "intent": "Visibility and safety for night running",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs on reflectivity or visibility; nothing supports this intent."
+    },
+    {
+      "id": "gap_095",
+      "product_id": "sku_006",
+      "intent": "Durability and longevity for frequent training",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs address durability, warranty, or guaranteed mileage."
+    },
+    {
+      "id": "gap_096",
+      "product_id": "sku_006",
+      "intent": "Comfort and fit for wide feet during long runs",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs for toe box width, available widths, or fit for wide feet."
+    },
+    {
+      "id": "gap_097",
+      "product_id": "sku_006",
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs for breathability or temperature management; 'knit' upper may imply breathability but is not explicit."
+    },
+    {
+      "id": "gap_098",
+      "product_id": "sku_006",
+      "intent": "Budget-friendly options for wide feet",
+      "type": "not_applicable",
+      "supporting_specs": [],
+      "rationale": "At $225, this is not a budget-friendly product, and there is no evidence for wide fit."
+    },
+    {
+      "id": "gap_099",
+      "product_id": "sku_006",
+      "intent": "Grip and versatility for mixed surfaces",
+      "type": "not_applicable",
+      "supporting_specs": [
+        "surface"
+      ],
+      "rationale": "Surface is specified as 'road', so not intended for mixed surfaces."
+    },
+    {
+      "id": "gap_100",
+      "product_id": "sku_006",
+      "intent": "Style and appearance for wide-fit running shoes",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs for wide fit or available widths; style is not described in relation to wide fit."
+    },
+    {
+      "id": "gap_101",
+      "product_id": "sku_006",
+      "intent": "Sustainability and eco-friendly materials",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs for recycled, sustainable, or vegan materials."
+    },
+    {
+      "id": "gap_102",
+      "product_id": "sku_006",
+      "intent": "Minimalist or simple design preferences",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "Description mentions 'minimal heel' and 'sculpted midsole sidewall', supporting a minimalist design."
+    },
+    {
+      "id": "gap_103",
+      "product_id": "sku_006",
+      "intent": "Support and injury recovery for wide feet",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs for arch support, pronation control, or wide fit."
+    },
+    {
+      "id": "gap_104",
+      "product_id": "sku_006",
+      "intent": "Advanced technology and new materials",
+      "type": "fixable",
+      "supporting_specs": [
+        "midsole",
+        "plate"
+      ],
+      "rationale": "Specs list 'Pebax' midsole and 'carbon fibre' plate, both advanced materials."
+    },
+    {
+      "id": "gap_105",
+      "product_id": "sku_006",
+      "intent": "Visibility and safety for night running",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs for reflectivity or visibility features."
+    },
+    {
+      "id": "gap_106",
+      "product_id": "sku_008",
+      "intent": "Durability and longevity for frequent training",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs address durability, longevity, or warranty; nothing in the data supports this claim."
+    },
+    {
+      "id": "gap_107",
+      "product_id": "sku_008",
+      "intent": "Comfort and fit for wide feet during long runs",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs on toe box width, available widths, or fit; cannot support claims about wide feet."
+    },
+    {
+      "id": "gap_108",
+      "product_id": "sku_008",
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs on breathability, mesh, or temperature management; upper is 'ripstop' but this does not imply breathability."
+    },
+    {
+      "id": "gap_109",
+      "product_id": "sku_008",
+      "intent": "Budget-friendly options for wide feet",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs on available widths or toe box width; price is present but nothing about wide fit."
+    },
+    {
+      "id": "gap_110",
+      "product_id": "sku_008",
+      "intent": "Grip and versatility for mixed surfaces",
+      "type": "fixable",
+      "supporting_specs": [
+        "outsole",
+        "surface"
+      ],
+      "rationale": "The '5mm aggressive lugs' and 'surface: trail' support grip, but versatility for mixed surfaces is only partially implied."
+    },
+    {
+      "id": "gap_111",
+      "product_id": "sku_008",
+      "intent": "Style and appearance for wide-fit running shoes",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs on style, appearance, or wide fit; nothing to support this intent."
+    },
+    {
+      "id": "gap_112",
+      "product_id": "sku_008",
+      "intent": "Sustainability and eco-friendly materials",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs on recycled, sustainable, or vegan materials; cannot support this claim."
+    },
+    {
+      "id": "gap_113",
+      "product_id": "sku_008",
+      "intent": "Minimalist or simple design preferences",
+      "type": "not_applicable",
+      "supporting_specs": [],
+      "rationale": "Specs show moderate cushioning, rock plate, and 27mm stack height, which are not minimalist features."
+    },
+    {
+      "id": "gap_114",
+      "product_id": "sku_008",
+      "intent": "Support and injury recovery for wide feet",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs on arch support, stability, or wide fit; nothing to support this intent."
+    },
+    {
+      "id": "gap_115",
+      "product_id": "sku_008",
+      "intent": "Advanced technology and new materials",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "Specs list standard materials (EVA, ripstop); nothing indicates advanced technology or new materials."
+    },
+    {
+      "id": "gap_116",
+      "product_id": "sku_008",
+      "intent": "Visibility and safety for night running",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs on reflectivity or visibility; cannot support this claim."
+    },
+    {
+      "id": "gap_117",
+      "product_id": "sku_009",
+      "intent": "Durability and longevity for frequent training",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs directly address durability or longevity; upper material and overlays are listed but do not guarantee long-term use."
+    },
+    {
+      "id": "gap_118",
+      "product_id": "sku_009",
+      "intent": "Comfort and fit for wide feet during long runs",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs for toe box width or available widths; nothing supports claims about wide-foot comfort or fit."
+    },
+    {
+      "id": "gap_119",
+      "product_id": "sku_009",
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs address breathability or temperature management; waterproof is present but does not imply breathability."
+    },
+    {
+      "id": "gap_120",
+      "product_id": "sku_009",
+      "intent": "Budget-friendly options for wide feet",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs for wide fit, and price is listed but not compared to other options; nothing supports budget-friendly for wide feet."
+    },
+    {
+      "id": "gap_121",
+      "product_id": "sku_009",
+      "intent": "Grip and versatility for mixed surfaces",
+      "type": "fixable",
+      "supporting_specs": [
+        "outsole",
+        "surface"
+      ],
+      "rationale": "Outsole with 4mm lugs and 'surface: trail' support grip and some versatility, but description does not mention it."
+    },
+    {
+      "id": "gap_122",
+      "product_id": "sku_009",
+      "intent": "Style and appearance for wide-fit running shoes",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs for wide fit or style; nothing supports this intent."
+    },
+    {
+      "id": "gap_123",
+      "product_id": "sku_009",
+      "intent": "Sustainability and eco-friendly materials",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs for recycled, sustainable, or vegan materials."
+    },
+    {
+      "id": "gap_124",
+      "product_id": "sku_009",
+      "intent": "Minimalist or simple design preferences",
+      "type": "not_applicable",
+      "supporting_specs": [],
+      "rationale": "Specs indicate moderate cushioning, 29mm stack, and EVA midsole, which are not minimalist features."
+    },
+    {
+      "id": "gap_125",
+      "product_id": "sku_009",
+      "intent": "Support and injury recovery for wide feet",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs for arch support, pronation, or wide fit; nothing supports this intent."
+    },
+    {
+      "id": "gap_126",
+      "product_id": "sku_009",
+      "intent": "Advanced technology and new materials",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "Specs list standard materials (EVA, ripstop, TPU); nothing indicates advanced technology or innovation."
+    },
+    {
+      "id": "gap_127",
+      "product_id": "sku_009",
+      "intent": "Visibility and safety for night running",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No spec for reflectivity or visibility; description mentions reflective trim but there is no supporting spec field."
+    },
+    {
+      "id": "gap_128",
+      "product_id": "sku_011",
+      "intent": "Durability and longevity for frequent training",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs address durability, outsole thickness, or guaranteed mileage."
+    },
+    {
+      "id": "gap_129",
+      "product_id": "sku_011",
+      "intent": "Comfort and fit for wide feet during long runs",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs for toe box width, available widths, or fit for wide feet."
+    },
+    {
+      "id": "gap_130",
+      "product_id": "sku_011",
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "type": "fixable",
+      "supporting_specs": [
+        "upper"
+      ],
+      "rationale": "The 'engineered mesh' upper supports breathability, but this is not stated in the description."
+    },
+    {
+      "id": "gap_131",
+      "product_id": "sku_011",
+      "intent": "Budget-friendly options for wide feet",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs for wide fit or available widths; price is present but not tied to wide fit."
+    },
+    {
+      "id": "gap_132",
+      "product_id": "sku_011",
+      "intent": "Grip and versatility for mixed surfaces",
+      "type": "not_applicable",
+      "supporting_specs": [
+        "surface"
+      ],
+      "rationale": "Surface is specified as 'road', so it is not intended for mixed surfaces."
+    },
+    {
+      "id": "gap_133",
+      "product_id": "sku_011",
+      "intent": "Style and appearance for wide-fit running shoes",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs for wide fit or style details."
+    },
+    {
+      "id": "gap_134",
+      "product_id": "sku_011",
+      "intent": "Sustainability and eco-friendly materials",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs for recycled, sustainable, or vegan materials."
+    },
+    {
+      "id": "gap_135",
+      "product_id": "sku_011",
+      "intent": "Minimalist or simple design preferences",
+      "type": "fixable",
+      "supporting_specs": [
+        "plate",
+        "stack_height_mm",
+        "weight_g"
+      ],
+      "rationale": "No plate, low stack height, and low weight support a minimalist design, but this is not stated."
+    },
+    {
+      "id": "gap_136",
+      "product_id": "sku_011",
+      "intent": "Support and injury recovery for wide feet",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs for wide fit, arch support, or stability features."
+    },
+    {
+      "id": "gap_137",
+      "product_id": "sku_011",
+      "intent": "Advanced technology and new materials",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs indicate advanced technology or innovative materials."
+    },
+    {
+      "id": "gap_138",
+      "product_id": "sku_011",
+      "intent": "Visibility and safety for night running",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs for reflectivity or visibility features."
+    },
+    {
+      "id": "gap_139",
+      "product_id": "sku_013",
+      "intent": "Durability and longevity for frequent training",
+      "type": "fixable",
+      "supporting_specs": [
+        "upper",
+        "outsole"
+      ],
+      "rationale": "Ripstop upper and 6mm aggressive lugs suggest durability, but this is not stated in the description."
+    },
+    {
+      "id": "gap_140",
+      "product_id": "sku_013",
+      "intent": "Comfort and fit for wide feet during long runs",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs about toe box width, available widths, or fit for wide feet."
+    },
+    {
+      "id": "gap_141",
+      "product_id": "sku_013",
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs about breathability, mesh, or temperature management."
+    },
+    {
+      "id": "gap_142",
+      "product_id": "sku_013",
+      "intent": "Budget-friendly options for wide feet",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs about wide fit or available widths; price is present but not linked to wide fit."
+    },
+    {
+      "id": "gap_143",
+      "product_id": "sku_013",
+      "intent": "Grip and versatility for mixed surfaces",
+      "type": "fixable",
+      "supporting_specs": [
+        "outsole",
+        "surface"
+      ],
+      "rationale": "6mm aggressive lugs and 'trail' surface indicate grip, but versatility for mixed surfaces is not stated."
+    },
+    {
+      "id": "gap_144",
+      "product_id": "sku_013",
+      "intent": "Style and appearance for wide-fit running shoes",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs about style, appearance, or wide fit."
+    },
+    {
+      "id": "gap_145",
+      "product_id": "sku_013",
+      "intent": "Sustainability and eco-friendly materials",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs about recycled, sustainable, or vegan materials."
+    },
+    {
+      "id": "gap_146",
+      "product_id": "sku_013",
+      "intent": "Minimalist or simple design preferences",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs or description about minimalist design or simple construction."
+    },
+    {
+      "id": "gap_147",
+      "product_id": "sku_013",
+      "intent": "Support and injury recovery for wide feet",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs about support, stability, or wide fit."
+    },
+    {
+      "id": "gap_148",
+      "product_id": "sku_013",
+      "intent": "Advanced technology and new materials",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs or description about advanced technology or innovative materials."
+    },
+    {
+      "id": "gap_149",
+      "product_id": "sku_013",
+      "intent": "Visibility and safety for night running",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs about reflectivity or visibility features."
+    },
+    {
+      "id": "gap_150",
+      "product_id": "sku_014",
+      "intent": "Durability and longevity for frequent training",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs address durability, longevity, or warranty; nothing supports this intent."
+    },
+    {
+      "id": "gap_151",
+      "product_id": "sku_014",
+      "intent": "Comfort and fit for wide feet during long runs",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs on toe box width, available widths, or fit; nothing supports claims for wide feet."
+    },
+    {
+      "id": "gap_152",
+      "product_id": "sku_014",
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "type": "fixable",
+      "supporting_specs": [
+        "upper"
+      ],
+      "rationale": "The 'engineered mesh' upper supports breathability, but this is not mentioned in the description."
+    },
+    {
+      "id": "gap_153",
+      "product_id": "sku_014",
+      "intent": "Budget-friendly options for wide feet",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs on wide fit or available widths; price is present but wide fit is not supported."
+    },
+    {
+      "id": "gap_154",
+      "product_id": "sku_014",
+      "intent": "Grip and versatility for mixed surfaces",
+      "type": "fixable",
+      "supporting_specs": [
+        "outsole",
+        "surface"
+      ],
+      "rationale": "The '4mm lugs' outsole and 'trail' surface support grip, but versatility for mixed surfaces is not stated."
+    },
+    {
+      "id": "gap_155",
+      "product_id": "sku_014",
+      "intent": "Style and appearance for wide-fit running shoes",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs on wide fit or appearance for wide feet; nothing supports this intent."
+    },
+    {
+      "id": "gap_156",
+      "product_id": "sku_014",
+      "intent": "Sustainability and eco-friendly materials",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs on recycled, sustainable, or vegan materials; nothing supports this intent."
+    },
+    {
+      "id": "gap_157",
+      "product_id": "sku_014",
+      "intent": "Minimalist or simple design preferences",
+      "type": "fixable",
+      "supporting_specs": [
+        "cushioning",
+        "plate",
+        "stack_height_mm",
+        "weight_g"
+      ],
+      "rationale": "Low cushioning, no plate, moderate stack height, and low weight support a minimalist design, but this is not stated."
+    },
+    {
+      "id": "gap_158",
+      "product_id": "sku_014",
+      "intent": "Support and injury recovery for wide feet",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs on support features or wide fit; nothing supports this intent."
+    },
+    {
+      "id": "gap_159",
+      "product_id": "sku_014",
+      "intent": "Advanced technology and new materials",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs mention advanced technology or innovative materials; nothing supports this intent."
+    },
+    {
+      "id": "gap_160",
+      "product_id": "sku_014",
+      "intent": "Visibility and safety for night running",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs on reflectivity or visibility; nothing supports this intent."
+    },
+    {
+      "id": "gap_161",
+      "product_id": "sku_016",
+      "intent": "Durability and longevity for frequent training",
+      "type": "fixable",
+      "supporting_specs": [
+        "outsole",
+        "stack_height_mm"
+      ],
+      "rationale": "The full carbon rubber outsole and high stack height support claims of durability and longevity, but the description could be more explicit."
+    },
+    {
+      "id": "gap_162",
+      "product_id": "sku_016",
+      "intent": "Comfort and fit for wide feet during long runs",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "There is no spec for toe box width or available widths, so nothing supports claims about wide feet."
+    },
+    {
+      "id": "gap_163",
+      "product_id": "sku_016",
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "type": "fixable",
+      "supporting_specs": [
+        "upper",
+        "waterproof"
+      ],
+      "rationale": "The engineered mesh upper and non-waterproof spec support breathability, but the description could be clearer about temperature management."
+    },
+    {
+      "id": "gap_164",
+      "product_id": "sku_016",
+      "intent": "Budget-friendly options for wide feet",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs support wide fit, and price is not positioned as budget-friendly."
+    },
+    {
+      "id": "gap_165",
+      "product_id": "sku_016",
+      "intent": "Grip and versatility for mixed surfaces",
+      "type": "not_applicable",
+      "supporting_specs": [],
+      "rationale": "The surface spec is 'road' only, so it is not intended for mixed surfaces."
+    },
+    {
+      "id": "gap_166",
+      "product_id": "sku_016",
+      "intent": "Style and appearance for wide-fit running shoes",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs or description elements address style or wide fit."
+    },
+    {
+      "id": "gap_167",
+      "product_id": "sku_016",
+      "intent": "Sustainability and eco-friendly materials",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs mention recycled, sustainable, or vegan materials."
+    },
+    {
+      "id": "gap_168",
+      "product_id": "sku_016",
+      "intent": "Minimalist or simple design preferences",
+      "type": "not_applicable",
+      "supporting_specs": [],
+      "rationale": "The stack height (31mm) and moderate cushioning indicate this is not a minimalist shoe."
+    },
+    {
+      "id": "gap_169",
+      "product_id": "sku_016",
+      "intent": "Support and injury recovery for wide feet",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs for arch support, pronation, or wide fit."
+    },
+    {
+      "id": "gap_170",
+      "product_id": "sku_016",
+      "intent": "Advanced technology and new materials",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "Specs list standard materials (EVA, carbon rubber, mesh) and no advanced technology."
+    },
+    {
+      "id": "gap_171",
+      "product_id": "sku_016",
+      "intent": "Visibility and safety for night running",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs for reflectivity or visibility."
+    },
+    {
+      "id": "gap_172",
+      "product_id": "sku_017",
+      "intent": "Durability and longevity for frequent training",
+      "type": "fixable",
+      "supporting_specs": [
+        "outsole",
+        "midsole"
+      ],
+      "rationale": "The carbon rubber outsole and EVA midsole are both known for durability, but this is not mentioned in the description."
+    },
+    {
+      "id": "gap_173",
+      "product_id": "sku_017",
+      "intent": "Comfort and fit for wide feet during long runs",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "There is no spec for toe box width or available widths, so nothing supports claims about wide feet."
+    },
+    {
+      "id": "gap_174",
+      "product_id": "sku_017",
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "type": "fixable",
+      "supporting_specs": [
+        "upper",
+        "waterproof"
+      ],
+      "rationale": "The synthetic mesh upper supports breathability, and 'waterproof: False' implies it is not insulated for wet/cold, but this is not stated."
+    },
+    {
+      "id": "gap_175",
+      "product_id": "sku_017",
+      "intent": "Budget-friendly options for wide feet",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "Price is present, but there is no evidence for wide fit."
+    },
+    {
+      "id": "gap_176",
+      "product_id": "sku_017",
+      "intent": "Grip and versatility for mixed surfaces",
+      "type": "not_applicable",
+      "supporting_specs": [],
+      "rationale": "Surface is specified as 'road', so it is not intended for mixed surfaces."
+    },
+    {
+      "id": "gap_177",
+      "product_id": "sku_017",
+      "intent": "Style and appearance for wide-fit running shoes",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs or description elements address style or wide fit."
+    },
+    {
+      "id": "gap_178",
+      "product_id": "sku_017",
+      "intent": "Sustainability and eco-friendly materials",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs address recycled, sustainable, or vegan materials."
+    },
+    {
+      "id": "gap_179",
+      "product_id": "sku_017",
+      "intent": "Minimalist or simple design preferences",
+      "type": "fixable",
+      "supporting_specs": [
+        "plate",
+        "midsole",
+        "stack_height_mm"
+      ],
+      "rationale": "No plate, moderate cushioning, and traditional construction suggest a simple design, but this is not stated."
+    },
+    {
+      "id": "gap_180",
+      "product_id": "sku_017",
+      "intent": "Support and injury recovery for wide feet",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs for arch support, pronation, or wide fit."
+    },
+    {
+      "id": "gap_181",
+      "product_id": "sku_017",
+      "intent": "Advanced technology and new materials",
+      "type": "not_applicable",
+      "supporting_specs": [],
+      "rationale": "Specs show traditional materials and construction; no advanced technology is present."
+    },
+    {
+      "id": "gap_182",
+      "product_id": "sku_017",
+      "intent": "Visibility and safety for night running",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No spec for reflectivity or visibility."
+    },
+    {
+      "id": "gap_183",
+      "product_id": "sku_021",
+      "intent": "Durability and longevity for frequent training",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs address durability, outsole wear, or warranty; nothing supports this intent."
+    },
+    {
+      "id": "gap_184",
+      "product_id": "sku_021",
+      "intent": "Comfort and fit for wide feet during long runs",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs on toe box width, available widths, or fit; cannot support claims for wide feet."
+    },
+    {
+      "id": "gap_185",
+      "product_id": "sku_021",
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "type": "fixable",
+      "supporting_specs": [
+        "upper"
+      ],
+      "rationale": "The 'engineered mesh' upper supports breathability, but this is not mentioned in the description."
+    },
+    {
+      "id": "gap_186",
+      "product_id": "sku_021",
+      "intent": "Budget-friendly options for wide feet",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs on available widths or fit; price is present but wide fit is not supported."
+    },
+    {
+      "id": "gap_187",
+      "product_id": "sku_021",
+      "intent": "Grip and versatility for mixed surfaces",
+      "type": "not_applicable",
+      "supporting_specs": [
+        "surface",
+        "outsole"
+      ],
+      "rationale": "Surface is 'road' and outsole is 'blown rubber', which does not support mixed surface use."
+    },
+    {
+      "id": "gap_188",
+      "product_id": "sku_021",
+      "intent": "Style and appearance for wide-fit running shoes",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs on wide fit or available widths; style is mentioned but not in relation to wide fit."
+    },
+    {
+      "id": "gap_189",
+      "product_id": "sku_021",
+      "intent": "Sustainability and eco-friendly materials",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs on recycled, sustainable, or vegan materials; nothing supports this intent."
+    },
+    {
+      "id": "gap_190",
+      "product_id": "sku_021",
+      "intent": "Minimalist or simple design preferences",
+      "type": "not_applicable",
+      "supporting_specs": [
+        "cushioning",
+        "stack_height_mm",
+        "drop_mm"
+      ],
+      "rationale": "Max cushioning, high stack height, and 8mm drop indicate this is not a minimalist shoe."
+    },
+    {
+      "id": "gap_191",
+      "product_id": "sku_021",
+      "intent": "Support and injury recovery for wide feet",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs on arch support, stability, or wide fit; nothing supports this intent."
+    },
+    {
+      "id": "gap_192",
+      "product_id": "sku_021",
+      "intent": "Advanced technology and new materials",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "Specs list standard materials (EVA blend, mesh); no evidence of advanced technology."
+    },
+    {
+      "id": "gap_193",
+      "product_id": "sku_021",
+      "intent": "Visibility and safety for night running",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs on reflectivity or visibility; nothing supports this intent."
+    },
+    {
+      "id": "gap_194",
+      "product_id": "sku_023",
+      "intent": "Durability and longevity for frequent training",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs address durability, material longevity, or warranty."
+    },
+    {
+      "id": "gap_195",
+      "product_id": "sku_023",
+      "intent": "Comfort and fit for wide feet during long runs",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs for toe box width, available widths, or fit for wide feet."
+    },
+    {
+      "id": "gap_196",
+      "product_id": "sku_023",
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs mention breathability, ventilation, or temperature management."
+    },
+    {
+      "id": "gap_197",
+      "product_id": "sku_023",
+      "intent": "Budget-friendly options for wide feet",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs for wide fit; price is present but wide fit is not supported."
+    },
+    {
+      "id": "gap_198",
+      "product_id": "sku_023",
+      "intent": "Grip and versatility for mixed surfaces",
+      "type": "not_applicable",
+      "supporting_specs": [
+        "surface",
+        "outsole"
+      ],
+      "rationale": "Specs specify 'track' surface and a 7-pin spike plate, not suitable for mixed surfaces."
+    },
+    {
+      "id": "gap_199",
+      "product_id": "sku_023",
+      "intent": "Style and appearance for wide-fit running shoes",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs for style, appearance, or wide fit."
+    },
+    {
+      "id": "gap_200",
+      "product_id": "sku_023",
+      "intent": "Sustainability and eco-friendly materials",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs for recycled, sustainable, or eco-friendly materials."
+    },
+    {
+      "id": "gap_201",
+      "product_id": "sku_023",
+      "intent": "Minimalist or simple design preferences",
+      "type": "fixable",
+      "supporting_specs": [
+        "cushioning",
+        "midsole",
+        "stack_height_mm",
+        "weight_g"
+      ],
+      "rationale": "Specs show no cushioning, no midsole, low stack height, and low weight, supporting minimalist design."
+    },
+    {
+      "id": "gap_202",
+      "product_id": "sku_023",
+      "intent": "Support and injury recovery for wide feet",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs for arch support, stability, or wide fit."
+    },
+    {
+      "id": "gap_203",
+      "product_id": "sku_023",
+      "intent": "Advanced technology and new materials",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs mention advanced technology or new materials."
+    },
+    {
+      "id": "gap_204",
+      "product_id": "sku_023",
+      "intent": "Visibility and safety for night running",
+      "type": "needs_evidence",
+      "supporting_specs": [],
+      "rationale": "No specs for reflectivity or visibility features."
+    }
+  ]
+}

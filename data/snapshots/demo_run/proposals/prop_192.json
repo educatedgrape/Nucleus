@@ -1,0 +1,12 @@
+{
+  "id": "prop_192",
+  "created_at": "2026-08-29T13:18:40.826168+00:00",
+  "status": "pending",
+  "gap_id": "gap_192",
+  "product_id": "sku_021",
+  "intent": "Advanced technology and new materials",
+  "action": "flag",
+  "new_description": null,
+  "based_on": [],
+  "reason": "Specs list standard materials (EVA blend, mesh); no evidence of advanced technology."
+}

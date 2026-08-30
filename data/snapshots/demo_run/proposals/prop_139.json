@@ -1,0 +1,26 @@
+{
+  "id": "prop_139",
+  "created_at": "2026-08-29T13:18:28.706459+00:00",
+  "status": "approved",
+  "gap_id": "gap_139",
+  "product_id": "sku_013",
+  "intent": "Durability and longevity for frequent training",
+  "action": "rewrite",
+  "new_description": "Built for technical trail. Deep 6mm lugs deliver serious traction on wet rock and loose descents, and the ripstop upper is hard-wearing enough to survive repeated scree contact. The durable ripstop upper and robust outsole are designed to withstand frequent use on rugged terrain.",
+  "based_on": [
+    "outsole: 6mm aggressive lugs",
+    "upper: ripstop"
+  ],
+  "reason": "The ripstop upper and aggressive outsole both support claims of durability and longevity for frequent training.",
+  "from_description": "Built for technical trail. Deep 6mm lugs deliver serious traction on wet rock and loose descents, and the ripstop upper is hard-wearing enough to survive repeated scree contact.",
+  "claims": [
+    {
+      "sentence": "The durable ripstop upper and robust outsole are designed to withstand frequent use on rugged terrain.",
+      "spec_fields": [
+        "upper",
+        "outsole"
+      ]
+    }
+  ],
+  "applied": "description_updated"
+}

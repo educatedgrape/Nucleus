@@ -1,0 +1,12 @@
+{
+  "id": "prop_109",
+  "created_at": "2026-08-29T13:18:23.347560+00:00",
+  "status": "pending",
+  "gap_id": "gap_109",
+  "product_id": "sku_008",
+  "intent": "Budget-friendly options for wide feet",
+  "action": "flag",
+  "new_description": null,
+  "based_on": [],
+  "reason": "No specs on available widths or toe box width; price is present but nothing about wide fit."
+}

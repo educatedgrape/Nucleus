@@ -1,0 +1,51 @@
+{
+  "id": "sku_003",
+  "name": "Kestrel Knit",
+  "price": 155,
+  "specs": {
+    "weight_g": 242,
+    "drop_mm": 8,
+    "stack_height_mm": 30,
+    "upper": "knit",
+    "midsole": "EVA",
+    "outsole": "blown rubber",
+    "plate": "none",
+    "surface": "road",
+    "waterproof": false,
+    "cushioning": "moderate"
+  },
+  "description": "A modern one-piece upper gives this trainer a sock-like fit and a minimal, contemporary look. Reflective heel detailing. Machine washable.",
+  "edit_history": [],
+  "semantic_links": [
+    {
+      "intent": "Durability and longevity for frequent training",
+      "round": 1,
+      "evidenced_by": "Are there any wide running shoes for half marathon training that are under $120 but still last for daily runs?",
+      "rank": 5
+    },
+    {
+      "intent": "Comfort and fit for wide feet during long runs",
+      "round": 1,
+      "evidenced_by": "First time training for a half marathon—what neutral running shoes are best for wide feet and daily use?",
+      "rank": 5
+    },
+    {
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "round": 1,
+      "evidenced_by": "Are there any neutral running shoes for wide feet that won’t get soaked or slippery in the rain? I train outside even when it’s wet.",
+      "rank": 4
+    },
+    {
+      "intent": "Style and appearance for wide-fit running shoes",
+      "round": 1,
+      "evidenced_by": "Looking for running shoes for wide feet that don’t look clunky—anything stylish for daily training?",
+      "rank": 5
+    },
+    {
+      "intent": "Sustainability and eco-friendly materials",
+      "round": 1,
+      "evidenced_by": "Are there any sustainable or recycled-material running shoes for wide feet that can handle half marathon training?",
+      "rank": 5
+    }
+  ]
+}

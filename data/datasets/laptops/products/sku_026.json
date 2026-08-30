@@ -1,0 +1,24 @@
+{
+  "id": "sku_026",
+  "name": "Widekey Comfort 15",
+  "price": 1399,
+  "specs": {
+    "weight_kg": 1.25,
+    "screen_size_in": 15.6,
+    "screen_type": "OLED",
+    "refresh_hz": 60,
+    "brightness_nits": 500,
+    "cpu": "Core Ultra 5",
+    "gpu": "integrated",
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "battery_wh": 68,
+    "ports": "HDMI, 2x USB-C, USB-A",
+    "chassis": "aluminium unibody",
+    "cooling": "single fan",
+    "os": "Windows 11"
+  },
+  "description": "A 15.6 inch notebook with a full-width deck and a numeric keypad. Sold in two finishes with a two-year support plan.",
+  "edit_history": [],
+  "semantic_links": []
+}

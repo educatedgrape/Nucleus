@@ -1,0 +1,12 @@
+{
+  "id": "prop_094",
+  "created_at": "2026-08-29T13:18:22.129205+00:00",
+  "status": "pending",
+  "gap_id": "gap_094",
+  "product_id": "sku_005",
+  "intent": "Visibility and safety for night running",
+  "action": "flag",
+  "new_description": null,
+  "based_on": [],
+  "reason": "No specs on reflectivity or visibility; nothing supports this intent."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "prop_172",
+  "created_at": "2026-08-29T13:18:37.520761+00:00",
+  "status": "approved",
+  "gap_id": "gap_172",
+  "product_id": "sku_017",
+  "intent": "Durability and longevity for frequent training",
+  "action": "rewrite",
+  "new_description": "A no-nonsense trainer at an accessible price. Traditional construction with a padded tongue and collar. The carbon rubber outsole is built to withstand regular road use, supporting durability for frequent training.",
+  "based_on": [
+    "outsole: carbon rubber",
+    "surface: road"
+  ],
+  "reason": "The carbon rubber outsole and road surface spec support a claim of durability for frequent training.",
+  "from_description": "A no-nonsense trainer at an accessible price. Traditional construction with a padded tongue and collar.",
+  "claims": [
+    {
+      "sentence": "The carbon rubber outsole is built to withstand regular road use, supporting durability for frequent training.",
+      "spec_fields": [
+        "outsole",
+        "surface"
+      ]
+    }
+  ],
+  "applied": "description_updated"
+}

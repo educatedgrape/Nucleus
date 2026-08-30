@@ -1,0 +1,75 @@
+{
+  "id": "sku_025",
+  "name": "Barefoot Minimal One",
+  "price": 110,
+  "specs": {
+    "weight_g": 165,
+    "drop_mm": 0,
+    "stack_height_mm": 8,
+    "upper": "knit",
+    "midsole": "none",
+    "outsole": "3mm rubber",
+    "plate": "none",
+    "surface": "road",
+    "waterproof": false,
+    "cushioning": "none"
+  },
+  "description": "A true barefoot shoe with an 8mm total stack and zero drop. Intended for runners already adapted to minimal footwear.",
+  "edit_history": [],
+  "semantic_links": [
+    {
+      "intent": "Durability and longevity for frequent training",
+      "round": 1,
+      "evidenced_by": "Are there any wide running shoes for half marathon training that are under $120 but still last for daily runs?",
+      "rank": 2
+    },
+    {
+      "intent": "Comfort and fit for wide feet during long runs",
+      "round": 1,
+      "evidenced_by": "First time training for a half marathon—what neutral running shoes are best for wide feet and daily use?",
+      "rank": 2
+    },
+    {
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "round": 1,
+      "evidenced_by": "Looking for running shoes that stay cool and have a wide toe box for summer half marathon training",
+      "rank": 3
+    },
+    {
+      "intent": "Budget-friendly options for wide feet",
+      "round": 1,
+      "evidenced_by": "Looking for a gift: what running shoes would suit someone training for a half marathon, with wide feet and a tight budget?",
+      "rank": 1
+    },
+    {
+      "intent": "Style and appearance for wide-fit running shoes",
+      "round": 1,
+      "evidenced_by": "Looking for running shoes for wide feet that don’t look clunky—anything stylish for daily training?",
+      "rank": 1
+    },
+    {
+      "intent": "Sustainability and eco-friendly materials",
+      "round": 1,
+      "evidenced_by": "Are there any sustainable or recycled-material running shoes for wide feet that can handle half marathon training?",
+      "rank": 2
+    },
+    {
+      "intent": "Minimalist or simple design preferences",
+      "round": 1,
+      "evidenced_by": "I’m interested in a more minimal shoe but still need cushioning and a wide toe box for long road runs—any suggestions?",
+      "rank": 2
+    },
+    {
+      "intent": "Advanced technology and new materials",
+      "round": 1,
+      "evidenced_by": "Are there any new running shoes with advanced materials or tech that are good for wide feet and frequent training?",
+      "rank": 4
+    },
+    {
+      "intent": "Visibility and safety for night running",
+      "round": 1,
+      "evidenced_by": "Best running shoes for wide feet and high visibility? I run after dark on roads and want something reflective.",
+      "rank": 2
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "prop_032",
+  "created_at": "2026-08-29T13:18:18.331818+00:00",
+  "status": "approved",
+  "gap_id": "gap_032",
+  "product_id": "sku_012",
+  "intent": "Breathability and temperature management (hot/cold/wet)",
+  "action": "no_change",
+  "new_description": null,
+  "based_on": [],
+  "reason": "Already surfaces for this intent; the description is doing its job. No change necessary.",
+  "link": {
+    "intent": "Breathability and temperature management (hot/cold/wet)",
+    "round": 1,
+    "evidenced_by": "I run early in the morning when it’s still cool and sometimes damp—what neutral trainers are comfortable for wide feet and won’t get soggy or heavy?",
+    "rank": 5
+  },
+  "applied": "semantic_link_recorded"
+}

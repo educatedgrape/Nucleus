@@ -1,0 +1,24 @@
+{
+  "id": "sku_023",
+  "name": "Kiosk Terminal Mini",
+  "price": 349,
+  "specs": {
+    "weight_kg": 1.15,
+    "screen_size_in": 11.6,
+    "screen_type": "TN",
+    "refresh_hz": 60,
+    "brightness_nits": 220,
+    "cpu": "Celeron N4500",
+    "gpu": "integrated",
+    "ram_gb": 4,
+    "storage_gb": 64,
+    "battery_wh": 38,
+    "ports": "USB-C, 2x USB-A",
+    "chassis": "polycarbonate",
+    "cooling": "fanless",
+    "os": "Windows 11"
+  },
+  "description": "An entry-level terminal for point-of-sale and signage. 4GB of memory and 64GB of storage, sized for a counter rather than a desk.",
+  "edit_history": [],
+  "semantic_links": []
+}

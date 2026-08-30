@@ -1,0 +1,12 @@
+{
+  "id": "prop_087",
+  "created_at": "2026-08-29T13:18:21.075205+00:00",
+  "status": "pending",
+  "gap_id": "gap_087",
+  "product_id": "sku_005",
+  "intent": "Budget-friendly options for wide feet",
+  "action": "flag",
+  "new_description": null,
+  "based_on": [],
+  "reason": "No specs on wide fit; price is present but nothing about fit for wide feet."
+}

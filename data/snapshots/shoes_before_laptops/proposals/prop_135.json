@@ -1,0 +1,17 @@
+{
+  "id": "prop_135",
+  "created_at": "2026-08-29T13:18:27.583941+00:00",
+  "status": "pending",
+  "gap_id": "gap_135",
+  "product_id": "sku_011",
+  "intent": "Minimalist or simple design preferences",
+  "action": "flag",
+  "new_description": null,
+  "based_on": [],
+  "reason": "Downgraded automatically: proposed copy could not be traced to the specs.",
+  "downgraded_from": "rewrite",
+  "rejected_description": "A stripped-back trainer with a simplified upper and a low-profile collar. Single-layer construction throughout. The lightweight build and absence of a plate keep the design minimal for runners who prefer simplicity.",
+  "traceability_failures": [
+    "claims minimal, which this product's specs do not support: 'The lightweight build and absence of a plate keep the design minimal for runners who prefer simplicity.'"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "sku_013",
+  "name": "Cinder 15",
+  "price": 1299,
+  "specs": {
+    "weight_kg": 2.05,
+    "screen_size_in": 15.6,
+    "screen_type": "IPS",
+    "refresh_hz": 165,
+    "brightness_nits": 300,
+    "cpu": "Core i5-13500H",
+    "gpu": "RTX 4050",
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "battery_wh": 70,
+    "ports": "HDMI, 3x USB-A, USB-C",
+    "chassis": "polycarbonate",
+    "cooling": "dual-fan",
+    "os": "Windows 11"
+  },
+  "description": "A black 15.6 inch chassis with a red-backlit keyboard and a numeric keypad. Sold with a 180W charger.",
+  "edit_history": [],
+  "semantic_links": []
+}

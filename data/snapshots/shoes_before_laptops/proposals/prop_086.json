@@ -1,0 +1,24 @@
+{
+  "id": "prop_086",
+  "created_at": "2026-08-29T13:18:21.071252+00:00",
+  "status": "approved",
+  "gap_id": "gap_086",
+  "product_id": "sku_005",
+  "intent": "Breathability and temperature management (hot/cold/wet)",
+  "action": "rewrite",
+  "new_description": "Our tallest midsole to date, finished with a wide platform and a moulded heel counter. Presented in a monochrome upper with tonal branding. The engineered mesh upper is breathable, helping to keep your feet cool on warm runs.",
+  "based_on": [
+    "upper: engineered mesh"
+  ],
+  "reason": "The 'upper' spec field confirms engineered mesh, which supports a claim about breathability and temperature management.",
+  "from_description": "Our tallest midsole to date, finished with a wide platform and a moulded heel counter. Presented in a monochrome upper with tonal branding.",
+  "claims": [
+    {
+      "sentence": "The engineered mesh upper is breathable, helping to keep your feet cool on warm runs.",
+      "spec_fields": [
+        "upper"
+      ]
+    }
+  ],
+  "applied": "description_updated"
+}

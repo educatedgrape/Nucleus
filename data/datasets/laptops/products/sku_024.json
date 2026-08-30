@@ -1,0 +1,24 @@
+{
+  "id": "sku_024",
+  "name": "Anvil Rugged 14",
+  "price": 2799,
+  "specs": {
+    "weight_kg": 3.1,
+    "screen_size_in": 14.0,
+    "screen_type": "IPS matte",
+    "refresh_hz": 60,
+    "brightness_nits": 1000,
+    "cpu": "Core i5-1345U",
+    "gpu": "integrated",
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "battery_wh": 98,
+    "ports": "HDMI, 2x USB-A, USB-C, Ethernet, serial",
+    "chassis": "magnesium alloy",
+    "cooling": "fanless passive",
+    "os": "Windows 11"
+  },
+  "description": "A sealed rugged notebook built to a drop and dust standard for utilities and defence work. 3.1kg, a hardened shell and a serial port for legacy field equipment.",
+  "edit_history": [],
+  "semantic_links": []
+}

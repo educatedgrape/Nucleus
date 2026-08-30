@@ -1,0 +1,46 @@
+# Nucleus configuration
+# Every knob the pipeline reads lives here. See build.md.
+
+dataset: laptops              # <- swap this to point at another catalogue
+
+search_k: 5                 # DO NOT CHANGE AFTER ROUND 1.
+                            # Defines what counts as "never returned", which is
+                            # the headline number. Changing it invalidates any
+                            # before/after comparison.
+
+persona_count: 30
+
+embedding_model: all-MiniLM-L6-v2
+
+llm:
+  provider: openai          # openai | anthropic | offline
+
+  # Pinned to a DATED snapshot, verified against the live API. build.md calls
+  # for pinning the model version: an undated alias silently moves under you and
+  # round 2 stops being comparable to round 1.
+  #
+  # Why not gpt-5: this key's organisation is not verified for it (the API
+  # rejects the call), and the gpt-5 reasoning models refuse temperature=0,
+  # which is the setting that keeps runs reproducible.
+  model: gpt-4.1-2025-04-14
+  temperature: 0            # pinned for run-to-run stability
+  max_output_tokens: 16384   # 30 personas in one payload overflows 4096
+  timeout_seconds: 90
+
+  # Client-side throttle. The key's real headroom is far higher
+  # (10k requests/min, 30M tokens/min), so these are deliberately conservative:
+  # they exist to be a good citizen and to keep a demo predictable, not because
+  # the ceiling is close.
+  requests_per_minute: 120
+  max_concurrency: 4        # parallel calls for per-product report classification
+  max_retries: 5            # on 429 / 5xx / timeouts, with exponential backoff
+  retry_base_seconds: 1.0
+  retry_max_seconds: 30.0
+
+  # For the cost estimate printed after a run. USD per 1M tokens. These are
+  # estimates only -- check current pricing at openai.com/api/pricing.
+  price_per_1m_input: 2.00
+  price_per_1m_output: 8.00
+
+paths:
+  data: data

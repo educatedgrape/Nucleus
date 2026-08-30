@@ -1,0 +1,20 @@
+{
+  "id": "sku_023",
+  "name": "Track Spike Elite",
+  "price": 120,
+  "specs": {
+    "weight_g": 128,
+    "drop_mm": 4,
+    "stack_height_mm": 13,
+    "upper": "synthetic",
+    "midsole": "none",
+    "outsole": "7-pin spike plate",
+    "plate": "spike plate",
+    "surface": "track",
+    "waterproof": false,
+    "cushioning": "none"
+  },
+  "description": "A 7-pin track spike for 1500m to 5000m on synthetic surfaces. Supplied with a spike key and a set of 6mm pyramid pins.",
+  "edit_history": [],
+  "semantic_links": []
+}

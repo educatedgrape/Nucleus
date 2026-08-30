@@ -1,0 +1,20 @@
+{
+  "id": "sku_002",
+  "name": "Nimbus Street",
+  "price": 130,
+  "specs": {
+    "weight_g": 198,
+    "drop_mm": 8,
+    "stack_height_mm": 27,
+    "upper": "synthetic mesh",
+    "midsole": "EVA",
+    "outsole": "blown rubber",
+    "plate": "none",
+    "surface": "road",
+    "waterproof": false,
+    "cushioning": "moderate"
+  },
+  "description": "A clean, understated daily trainer with a streamlined silhouette. Available in four colourways with a padded collar and a traditional lacing setup.",
+  "edit_history": [],
+  "semantic_links": []
+}

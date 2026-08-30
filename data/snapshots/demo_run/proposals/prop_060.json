@@ -1,0 +1,19 @@
+{
+  "id": "prop_060",
+  "created_at": "2026-08-29T13:18:18.405228+00:00",
+  "status": "approved",
+  "gap_id": "gap_060",
+  "product_id": "sku_007",
+  "intent": "Minimalist or simple design preferences",
+  "action": "no_change",
+  "new_description": null,
+  "based_on": [],
+  "reason": "Already surfaces for this intent; the description is doing its job. No change necessary.",
+  "link": {
+    "intent": "Minimalist or simple design preferences",
+    "round": 1,
+    "evidenced_by": "I’m interested in a more minimal shoe but still need cushioning and a wide toe box for long road runs—any suggestions?",
+    "rank": 3
+  },
+  "applied": "semantic_link_recorded"
+}

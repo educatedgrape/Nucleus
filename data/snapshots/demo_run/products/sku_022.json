@@ -1,0 +1,33 @@
+{
+  "id": "sku_022",
+  "name": "Halcyon Breeze",
+  "price": 150,
+  "specs": {
+    "weight_g": 218,
+    "drop_mm": 6,
+    "stack_height_mm": 29,
+    "upper": "open knit",
+    "midsole": "EVA blend",
+    "outsole": "blown rubber",
+    "plate": "none",
+    "surface": "road",
+    "waterproof": false,
+    "cushioning": "moderate"
+  },
+  "description": "Designed for hot and humid weather. The open knit upper is exceptionally breathable, with airflow across the whole forefoot to keep feet cool when the temperature climbs, and it stays light at 218g.",
+  "edit_history": [],
+  "semantic_links": [
+    {
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "round": 1,
+      "evidenced_by": "Looking for running shoes that stay cool and have a wide toe box for summer half marathon training",
+      "rank": 5
+    },
+    {
+      "intent": "Visibility and safety for night running",
+      "round": 1,
+      "evidenced_by": "Best running shoes for wide feet and high visibility? I run after dark on roads and want something reflective.",
+      "rank": 5
+    }
+  ]
+}

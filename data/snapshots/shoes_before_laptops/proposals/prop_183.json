@@ -1,0 +1,12 @@
+{
+  "id": "prop_183",
+  "created_at": "2026-08-29T13:18:39.688221+00:00",
+  "status": "pending",
+  "gap_id": "gap_183",
+  "product_id": "sku_021",
+  "intent": "Durability and longevity for frequent training",
+  "action": "flag",
+  "new_description": null,
+  "based_on": [],
+  "reason": "No specs address durability, outsole wear, or warranty; nothing supports this intent."
+}

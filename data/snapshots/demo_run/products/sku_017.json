@@ -1,0 +1,31 @@
+{
+  "id": "sku_017",
+  "name": "Flint Road",
+  "price": 125,
+  "specs": {
+    "weight_g": 278,
+    "drop_mm": 10,
+    "stack_height_mm": 29,
+    "upper": "synthetic mesh",
+    "midsole": "EVA",
+    "outsole": "carbon rubber",
+    "plate": "none",
+    "surface": "road",
+    "waterproof": false,
+    "cushioning": "moderate"
+  },
+  "description": "A no-nonsense trainer at an accessible price. Traditional construction with a padded tongue and collar. The carbon rubber outsole is built to withstand regular road use, supporting durability for frequent training.",
+  "edit_history": [
+    {
+      "at": "2026-08-29T13:18:54.705361+00:00",
+      "added": "A no-nonsense trainer at an accessible price. Traditional construction with a padded tongue and collar. The carbon rubber outsole is built to withstand regular road use, supporting durability for frequent training.",
+      "replaced": "A no-nonsense trainer at an accessible price. Traditional construction with a padded tongue and collar.",
+      "based_on": [
+        "outsole: carbon rubber",
+        "surface: road"
+      ],
+      "proposal_id": "prop_172"
+    }
+  ],
+  "semantic_links": []
+}

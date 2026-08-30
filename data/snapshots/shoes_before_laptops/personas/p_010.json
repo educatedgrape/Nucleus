@@ -1,0 +1,25 @@
+{
+  "id": "p_010",
+  "seed_id": "seed_01",
+  "origin": "synthetic",
+  "need": "A durable neutral road trainer for half marathon training that stays comfortable over long distances and does not cramp a wide forefoot",
+  "must_have": [
+    "room across the forefoot",
+    "under $160",
+    "durable enough for five runs a week"
+  ],
+  "prefer": [
+    "lighter than the current pair",
+    "stays cool in summer heat"
+  ],
+  "context": [
+    "half marathon training",
+    "runs five days a week",
+    "wide feet",
+    "feet swell in summer heat",
+    "mostly pavement, occasional towpath"
+  ],
+  "angle": "long_distance_focus",
+  "query": "What are the most comfortable wide running shoes for long training runs on pavement, suitable for half marathon prep?",
+  "source_answers": {}
+}

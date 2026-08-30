@@ -1,0 +1,20 @@
+{
+  "id": "sku_019",
+  "name": "Draft Low 2",
+  "price": 140,
+  "specs": {
+    "weight_g": 221,
+    "drop_mm": 4,
+    "stack_height_mm": 21,
+    "upper": "engineered mesh",
+    "midsole": "EVA",
+    "outsole": "blown rubber",
+    "plate": "none",
+    "surface": "road",
+    "waterproof": false,
+    "cushioning": "firm"
+  },
+  "description": "A low-drop trainer for runners who want a natural, close-to-the-ground ride. The 4mm drop and 21mm stack encourage a midfoot landing and give excellent ground-feel on faster efforts.",
+  "edit_history": [],
+  "semantic_links": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "prop_126",
+  "created_at": "2026-08-29T13:18:25.429470+00:00",
+  "status": "pending",
+  "gap_id": "gap_126",
+  "product_id": "sku_009",
+  "intent": "Advanced technology and new materials",
+  "action": "flag",
+  "new_description": null,
+  "based_on": [],
+  "reason": "Specs list standard materials (EVA, ripstop, TPU); nothing indicates advanced technology or innovation."
+}

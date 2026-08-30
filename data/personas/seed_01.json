@@ -1,0 +1,30 @@
+{
+  "id": "seed_01",
+  "seed_id": "seed_01",
+  "origin": "real",
+  "need": "A portable 14-inch work laptop that stays readable on site in daylight and lasts a full day away from a socket, without being uncomfortable to type on all day",
+  "must_have": [
+    "comfortable to type on for hours",
+    "under $1,600",
+    "readable outdoors in bright daylight"
+  ],
+  "prefer": [
+    "lighter than the current machine",
+    "lasts a full working day unplugged"
+  ],
+  "context": [
+    "works on site two or three days a week",
+    "carries the machine every day",
+    "types for most of the working day",
+    "often no socket available until the evening",
+    "occasional photo editing in the evenings"
+  ],
+  "angle": "seed",
+  "query": "portable 14 inch work laptop with a screen readable outdoors and all day battery under $1600",
+  "source_answers": {
+    "last_bought": "A 14-inch work laptop, about $1,200.",
+    "almost_bought": "A lighter one with a much better screen that was around $400 more.",
+    "why_not": "I carry it every day and I wasn't sure the battery would last a full day on site. The lighter one also looked like it had a shallow keyboard, and I type all day.",
+    "never_compromise": "A screen I can actually read outdoors. I work on site and a glossy panel is useless in daylight. And the keyboard has to be comfortable for eight hours."
+  }
+}

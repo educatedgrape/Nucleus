@@ -1,0 +1,20 @@
+{
+  "id": "sku_005",
+  "name": "Solstice Long",
+  "price": 180,
+  "specs": {
+    "weight_g": 292,
+    "drop_mm": 8,
+    "stack_height_mm": 40,
+    "upper": "engineered mesh",
+    "midsole": "supercritical EVA",
+    "outsole": "blown rubber",
+    "plate": "none",
+    "surface": "road",
+    "waterproof": false,
+    "cushioning": "max"
+  },
+  "description": "Our tallest midsole to date, finished with a wide platform and a moulded heel counter. Presented in a monochrome upper with tonal branding.",
+  "edit_history": [],
+  "semantic_links": []
+}

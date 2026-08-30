@@ -1,0 +1,12 @@
+{
+  "id": "prop_102",
+  "created_at": "2026-08-29T13:18:22.157171+00:00",
+  "status": "pending",
+  "gap_id": "gap_102",
+  "product_id": "sku_006",
+  "intent": "Minimalist or simple design preferences",
+  "action": "flag",
+  "new_description": null,
+  "based_on": [],
+  "reason": "Description mentions 'minimal heel' and 'sculpted midsole sidewall', supporting a minimalist design."
+}

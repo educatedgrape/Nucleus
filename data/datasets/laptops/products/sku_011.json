@@ -1,0 +1,24 @@
+{
+  "id": "sku_011",
+  "name": "Nimbus Slate 15",
+  "price": 1349,
+  "specs": {
+    "weight_kg": 1.62,
+    "screen_size_in": 15.6,
+    "screen_type": "IPS",
+    "refresh_hz": 60,
+    "brightness_nits": 400,
+    "cpu": "Ryzen 7 8840HS",
+    "gpu": "integrated",
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "battery_wh": 82,
+    "ports": "HDMI, USB-C, 2x USB-A",
+    "chassis": "polycarbonate",
+    "cooling": "single fan",
+    "os": "Windows 11"
+  },
+  "description": "A mid-size notebook in a soft grey finish, sold with a fabric sleeve. Configurable at checkout with a second-year support plan.",
+  "edit_history": [],
+  "semantic_links": []
+}

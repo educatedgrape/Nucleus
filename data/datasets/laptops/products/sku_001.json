@@ -1,0 +1,24 @@
+{
+  "id": "sku_001",
+  "name": "Aether Book 13",
+  "price": 1299,
+  "specs": {
+    "weight_kg": 1.19,
+    "screen_size_in": 13.6,
+    "screen_type": "OLED",
+    "refresh_hz": 60,
+    "brightness_nits": 500,
+    "cpu": "Core Ultra 7",
+    "gpu": "integrated",
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "battery_wh": 58,
+    "ports": "2x Thunderbolt 4, 3.5mm",
+    "chassis": "aluminium unibody",
+    "cooling": "single fan",
+    "os": "Windows 11"
+  },
+  "description": "An ultraportable that disappears into a bag at 1.19kg, so it travels without being noticed. The OLED panel gives deep blacks and vivid colour, and at 500 nits it stays visible in a bright room or by a sunlit window.",
+  "edit_history": [],
+  "semantic_links": []
+}

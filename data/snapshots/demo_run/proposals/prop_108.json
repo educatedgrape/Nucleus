@@ -1,0 +1,12 @@
+{
+  "id": "prop_108",
+  "created_at": "2026-08-29T13:18:23.343902+00:00",
+  "status": "pending",
+  "gap_id": "gap_108",
+  "product_id": "sku_008",
+  "intent": "Breathability and temperature management (hot/cold/wet)",
+  "action": "flag",
+  "new_description": null,
+  "based_on": [],
+  "reason": "No specs on breathability, mesh, or temperature management; upper is 'ripstop' but this does not imply breathability."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "sku_012",
+  "name": "Quarry Workstation 16",
+  "price": 2899,
+  "specs": {
+    "weight_kg": 2.3,
+    "screen_size_in": 16.0,
+    "screen_type": "IPS",
+    "refresh_hz": 60,
+    "brightness_nits": 500,
+    "cpu": "Ryzen 9 8945HX",
+    "gpu": "RTX 4080",
+    "ram_gb": 64,
+    "storage_gb": 2000,
+    "battery_wh": 90,
+    "ports": "HDMI, 2x Thunderbolt 4, SD card reader, Ethernet",
+    "chassis": "magnesium alloy",
+    "cooling": "triple-fan",
+    "os": "Windows 11"
+  },
+  "description": "A professional 16 inch model available through the business channel. Configurable memory and storage, three-year business imaging support, and a matching port replicator sold separately.",
+  "edit_history": [],
+  "semantic_links": []
+}

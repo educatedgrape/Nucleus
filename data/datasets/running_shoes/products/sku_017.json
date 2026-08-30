@@ -1,0 +1,20 @@
+{
+  "id": "sku_017",
+  "name": "Flint Road",
+  "price": 125,
+  "specs": {
+    "weight_g": 278,
+    "drop_mm": 10,
+    "stack_height_mm": 29,
+    "upper": "synthetic mesh",
+    "midsole": "EVA",
+    "outsole": "carbon rubber",
+    "plate": "none",
+    "surface": "road",
+    "waterproof": false,
+    "cushioning": "moderate"
+  },
+  "description": "A no-nonsense trainer at an accessible price. Traditional construction with a padded tongue and collar.",
+  "edit_history": [],
+  "semantic_links": []
+}

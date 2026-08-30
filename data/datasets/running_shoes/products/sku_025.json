@@ -1,0 +1,20 @@
+{
+  "id": "sku_025",
+  "name": "Barefoot Minimal One",
+  "price": 110,
+  "specs": {
+    "weight_g": 165,
+    "drop_mm": 0,
+    "stack_height_mm": 8,
+    "upper": "knit",
+    "midsole": "none",
+    "outsole": "3mm rubber",
+    "plate": "none",
+    "surface": "road",
+    "waterproof": false,
+    "cushioning": "none"
+  },
+  "description": "A true barefoot shoe with an 8mm total stack and zero drop. Intended for runners already adapted to minimal footwear.",
+  "edit_history": [],
+  "semantic_links": []
+}

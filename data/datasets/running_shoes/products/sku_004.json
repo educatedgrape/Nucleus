@@ -1,0 +1,20 @@
+{
+  "id": "sku_004",
+  "name": "Cloudline Max",
+  "price": 175,
+  "specs": {
+    "weight_g": 285,
+    "drop_mm": 6,
+    "stack_height_mm": 38,
+    "upper": "engineered mesh",
+    "midsole": "supercritical EVA",
+    "outsole": "blown rubber",
+    "plate": "none",
+    "surface": "road",
+    "waterproof": false,
+    "cushioning": "max"
+  },
+  "description": "Maximum cushioning for long, slow miles. A 38mm stack of supercritical foam keeps the ride plush and forgiving deep into marathon training, making this the easy-day shoe you reach for when the legs are tired.",
+  "edit_history": [],
+  "semantic_links": []
+}

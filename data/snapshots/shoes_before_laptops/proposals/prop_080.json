@@ -1,0 +1,19 @@
+{
+  "id": "prop_080",
+  "created_at": "2026-08-29T13:18:18.468017+00:00",
+  "status": "approved",
+  "gap_id": "gap_080",
+  "product_id": "sku_007",
+  "intent": "Visibility and safety for night running",
+  "action": "no_change",
+  "new_description": null,
+  "based_on": [],
+  "reason": "Already surfaces for this intent; the description is doing its job. No change necessary.",
+  "link": {
+    "intent": "Visibility and safety for night running",
+    "round": 1,
+    "evidenced_by": "Best running shoes for wide feet and high visibility? I run after dark on roads and want something reflective.",
+    "rank": 1
+  },
+  "applied": "semantic_link_recorded"
+}

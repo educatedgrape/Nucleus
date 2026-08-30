@@ -1,0 +1,219 @@
+# Dataset descriptor. Everything category-specific lives here so that no
+# module in backend/nucleus/ hardcodes "laptops" or a spec field name.
+# To test another category: copy this directory, rewrite this file and the
+# products/, then point config.dataset at it.
+
+category: laptops
+display_name: Laptops
+
+# Fed to persona spawning. Deliberately just the category -- personas must be
+# generated from the seed and the category name ONLY, never from product data,
+# or they will only ask about what the catalogue already covers.
+category_phrase: laptops
+
+currency: "$"
+
+# Material Symbols name used as the product placeholder in the storefront.
+icon: laptop_mac
+
+spec_labels:
+  weight_kg: Weight
+  screen_size_in: Screen size
+  screen_type: Panel
+  refresh_hz: Refresh rate
+  brightness_nits: Brightness
+  cpu: Processor
+  gpu: Graphics
+  ram_gb: Memory
+  storage_gb: Storage
+  battery_wh: Battery
+  ports: Ports
+  chassis: Chassis
+  cooling: Cooling
+  os: Operating system
+
+# ---------------------------------------------------------------------------
+# Claim traceability rules.
+#
+# The dormant agent may only assert something about a product if one of these
+# rules licenses it from an actual spec value. Enforced in code by
+# agents/adapter.py -- NOT merely requested in the prompt. Any sentence whose
+# terms are not licensed downgrades the whole proposal to `flag`.
+#
+#   spec            the spec field that must be present on the product
+#   when            a condition on that field's value
+#   licenses        claim terms this rule permits in the new description
+# ---------------------------------------------------------------------------
+claim_rules:
+  - spec: weight_kg
+    when: {below: 1.3}
+    licenses: [light, lightweight, ultraportable, portable, featherweight, commute, carry, slim]
+
+  - spec: weight_kg
+    when: {at_or_above: 2.4}
+    licenses: [substantial, desktop-replacement, stationary, hefty]
+
+  - spec: screen_size_in
+    when: {at_or_below: 13.6}
+    licenses: [compact, small-footprint, tray-table, cramped, pocketable-bag, tight-desks]
+
+  - spec: screen_size_in
+    when: {at_or_above: 16}
+    licenses: [large-screen, spacious, roomy, side-by-side, multi-window, timeline]
+
+  - spec: screen_type
+    when: {matches: "oled|mini-led"}
+    licenses: [contrast, colour, color, vivid, deep-blacks, hdr, saturated, grading, photo, punchy]
+
+  - spec: screen_type
+    when: {matches: "matte|anti-glare"}
+    licenses: [matte, anti-glare, glare-free, reflection, reflections, outdoors, bright-rooms]
+
+  - spec: brightness_nits
+    when: {at_or_above: 500}
+    licenses: [bright, sunlight, daylight, outdoors, well-lit, visible]
+
+  - spec: refresh_hz
+    when: {at_or_above: 120}
+    licenses: [smooth, high-refresh, fluid, motion, scrolling, gaming, responsive]
+
+  - spec: gpu
+    when: {matches: "rtx|radeon rx|arc a"}
+    licenses: [gaming, games, render, rendering, 3d, gpu-accelerated, cuda, video-editing, export, effects]
+
+  - spec: cpu
+    when: {matches: "ryzen 9|core i9|core ultra 9|hx|max"}
+    licenses: [fast, powerful, performance, compile, compiling, workstation, heavy-workloads, multicore, crunch]
+
+  - spec: ram_gb
+    when: {at_or_above: 32}
+    licenses: [multitask, multitasking, memory, headroom, large-datasets, virtual-machines, containers, tabs]
+
+  - spec: storage_gb
+    when: {at_or_above: 1000}
+    licenses: [storage, capacity, roomy-storage, large-files, libraries, footage, archive]
+
+  - spec: battery_wh
+    when: {at_or_above: 70}
+    licenses: [battery-life, all-day, unplugged, untethered, endurance, long-battery, away-from-a-socket]
+
+  - spec: ports
+    when: {matches: "thunderbolt"}
+    licenses: [thunderbolt, dock, docking, external-display, high-speed, egpu, single-cable]
+
+  - spec: ports
+    when: {matches: "hdmi"}
+    licenses: [hdmi, projector, monitor, external-display, presenting]
+
+  - spec: ports
+    when: {matches: "sd|card reader"}
+    licenses: [sd, card-reader, offload, memory-card, ingest]
+
+  - spec: cooling
+    when: {matches: "fanless|passive"}
+    licenses: [silent, quiet, noiseless, fanless, no-fan-noise]
+
+  - spec: cooling
+    when: {matches: "dual-fan|vapor|triple-fan"}
+    licenses: [sustained, sustained-performance, thermal-headroom, throttle, under-load]
+
+  - spec: chassis
+    when: {matches: "aluminium|magnesium|alloy|carbon"}
+    licenses: [durable, rigid, sturdy, solid, premium, hard-wearing, knocks]
+
+  - spec: os
+    when: {matches: "linux"}
+    licenses: [linux, open-source, tooling, distro]
+
+# Numeric claims (e.g. "under 1.2kg", "16 inches") must reconcile against one of
+# these fields or the sentence fails traceability automatically.
+numeric_fields: [weight_kg, screen_size_in, refresh_hz, brightness_nits, ram_gb, storage_gb, battery_wh, price]
+
+# Attributes shoppers genuinely ask about that this catalogue records NO spec
+# for. Documented so the flag path is deliberate and inspectable rather than
+# accidental: the adapter cannot support any of these and must refuse them.
+#
+# Enforcement does NOT live here -- it lives in claim_rules above, which simply
+# never license these terms, so a sentence claiming one fails traceability and
+# downgrades the whole proposal to `flag`. This list is what the report's gap
+# classifier is told about the dataset, and it is honest: every entry is a real
+# absence, not a trap. The breadth matters because the refusal path only fires
+# when a shopper asks about something unrecorded -- a narrow list means a
+# persona can easily miss it entirely.
+unsupported_attributes:
+  - keyboard travel or typing feel
+  - trackpad size or quality
+  - speaker or audio quality
+  - webcam resolution or video-call quality
+  - repairability or upgradeable RAM and SSD
+  - hinge durability or lid flex
+  - fingerprint reader or face unlock
+  - colour accuracy certification (Delta E or Pantone)
+  - screen scratch resistance or coating durability
+  - charging speed or fast-charge support
+  - warranty length or on-site service
+  - Wi-Fi or cellular connectivity standard
+  - recycled or sustainable materials
+  - touchscreen or stylus support
+
+# ---------------------------------------------------------------------------
+# Discrimination gate (`python -m nucleus.probe`). Hand-written per dataset;
+# they name product ids, so they live here rather than in code.
+#   expect  products whose copy already states the thing. AT LEAST ONE must
+#           surface -- not all. Several compete for the same k slots and which
+#           wins a tie is not a property worth asserting.
+#   blind   products whose specs support the claim but whose copy is silent.
+#           These should NOT surface: they are the gap the adapter closes.
+# ---------------------------------------------------------------------------
+probes:
+  - query: ultraportable lightweight laptop for carrying on a commute
+    expect: [sku_001]
+    blind: [sku_009, sku_010, sku_014, sku_015, sku_017, sku_022]
+
+  - query: laptop with a vivid high contrast screen for photo and video colour work
+    expect: [sku_004]
+    blind: [sku_010, sku_020, sku_021, sku_026]
+
+  - query: laptop with a matte anti-glare screen bright enough to use outdoors
+    expect: [sku_003, sku_005]
+    blind: [sku_018]
+
+  - query: gaming laptop that can render and export video without throttling
+    expect: [sku_002]
+    blind: [sku_012, sku_013]
+
+  - query: laptop with long battery life for a full day away from a socket
+    expect: [sku_003, sku_005]
+    blind: [sku_011, sku_016, sku_018]
+
+# ---------------------------------------------------------------------------
+# The refusal surface, exercised by tests/test_unsupported.py.
+#
+# `unsupported_claims` are the sentences a shopper would actually use for the
+# attributes listed above. NOT ONE of them may be licensable by ANY product in
+# this catalogue under ANY citation. If one ever becomes writable, either a
+# spec was added (update unsupported_attributes) or a claim rule is too loose.
+#
+# `supported_claim_example` keeps the refusal specific rather than blanket: a
+# real product making a real claim off a real spec field must still pass.
+# ---------------------------------------------------------------------------
+unsupported_claims:
+  - The keyboard has deep travel and a satisfying typing feel.
+  - A large glass trackpad with precise palm rejection.
+  - Rich stereo speakers with real bass for music and film.
+  - A sharp 1080p webcam that holds up on video calls.
+  - The RAM and SSD can be swapped out by the owner after purchase.
+  - A stiff hinge with no lid flex when you open it one-handed.
+  - Unlocks instantly with the fingerprint reader.
+  - Factory calibrated to a Delta E below two straight out of the box.
+  - A scratch-resistant coating that shrugs off keyboard marks.
+  - Charges from empty to eighty percent in half an hour.
+  - Covered by a three-year on-site warranty.
+  - Wi-Fi 7 and optional 5G keep you connected anywhere.
+  - Built from recycled aluminium with a low carbon footprint.
+  - The touchscreen supports a pressure-sensitive stylus.
+
+supported_claim_example:
+  product: sku_010                 # Lumen Pro 14 -- OLED panel, silent copy
+  sentence: The OLED panel gives deep blacks and vivid colour.
+  spec_fields: [screen_type]

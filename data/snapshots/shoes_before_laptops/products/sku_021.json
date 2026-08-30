@@ -1,0 +1,30 @@
+{
+  "id": "sku_021",
+  "name": "Cumulus Soft",
+  "price": 158,
+  "specs": {
+    "weight_g": 282,
+    "drop_mm": 8,
+    "stack_height_mm": 35,
+    "upper": "engineered mesh",
+    "midsole": "EVA blend",
+    "outsole": "blown rubber",
+    "plate": "none",
+    "surface": "road",
+    "waterproof": false,
+    "cushioning": "max"
+  },
+  "description": "A rounded silhouette with a broad base and a moulded sockliner. The engineered mesh upper is breathable, helping to keep your feet cooler on warm runs. Available in three seasonal colourways.",
+  "edit_history": [
+    {
+      "at": "2026-08-29T13:18:54.968720+00:00",
+      "added": "A rounded silhouette with a broad base and a moulded sockliner. The engineered mesh upper is breathable, helping to keep your feet cooler on warm runs. Available in three seasonal colourways.",
+      "replaced": "A rounded silhouette with a broad base and a moulded sockliner. Available in three seasonal colourways.",
+      "based_on": [
+        "upper: engineered mesh"
+      ],
+      "proposal_id": "prop_185"
+    }
+  ],
+  "semantic_links": []
+}

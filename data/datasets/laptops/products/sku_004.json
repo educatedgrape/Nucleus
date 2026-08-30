@@ -1,0 +1,24 @@
+{
+  "id": "sku_004",
+  "name": "Onyx Studio 16",
+  "price": 2599,
+  "specs": {
+    "weight_kg": 2.1,
+    "screen_size_in": 16.2,
+    "screen_type": "mini-LED",
+    "refresh_hz": 120,
+    "brightness_nits": 1000,
+    "cpu": "Core Ultra 9 185H",
+    "gpu": "RTX 4060",
+    "ram_gb": 32,
+    "storage_gb": 2000,
+    "battery_wh": 90,
+    "ports": "HDMI, 3x Thunderbolt 4, SD card reader",
+    "chassis": "aluminium unibody",
+    "cooling": "dual-fan",
+    "os": "Windows 11"
+  },
+  "description": "A colour-critical machine for photo and video. The mini-LED panel delivers HDR contrast and saturated colour for grading, the SD card reader lets you offload a shoot without a dongle, and 2TB of storage swallows large files and footage libraries.",
+  "edit_history": [],
+  "semantic_links": []
+}

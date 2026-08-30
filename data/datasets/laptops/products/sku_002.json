@@ -1,0 +1,24 @@
+{
+  "id": "sku_002",
+  "name": "Forge 16 RTX",
+  "price": 2199,
+  "specs": {
+    "weight_kg": 2.45,
+    "screen_size_in": 16.0,
+    "screen_type": "IPS matte",
+    "refresh_hz": 165,
+    "brightness_nits": 500,
+    "cpu": "Core i9-14900HX",
+    "gpu": "RTX 4070",
+    "ram_gb": 32,
+    "storage_gb": 1000,
+    "battery_wh": 90,
+    "ports": "HDMI 2.1, 2x USB-A, USB-C, Ethernet",
+    "chassis": "magnesium alloy",
+    "cooling": "dual-fan vapor chamber",
+    "os": "Windows 11"
+  },
+  "description": "A gaming and rendering machine that does not pretend to be small. The RTX 4070 handles modern games and GPU-accelerated video export, the 165Hz panel keeps motion smooth, and the dual-fan vapor chamber holds sustained performance under load instead of throttling after ten minutes.",
+  "edit_history": [],
+  "semantic_links": []
+}

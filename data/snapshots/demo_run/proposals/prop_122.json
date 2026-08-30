@@ -1,0 +1,12 @@
+{
+  "id": "prop_122",
+  "created_at": "2026-08-29T13:18:25.410126+00:00",
+  "status": "pending",
+  "gap_id": "gap_122",
+  "product_id": "sku_009",
+  "intent": "Style and appearance for wide-fit running shoes",
+  "action": "flag",
+  "new_description": null,
+  "based_on": [],
+  "reason": "No specs for wide fit or style; nothing supports this intent."
+}

@@ -1,0 +1,109 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+ * Hyper-Modern Neon: in a world of infinite black, depth comes from light
+ * emission and translucency rather than drop shadows. Lifted from the Stitch
+ * screens so both surfaces match.
+ */
+@layer components {
+  /* Level 1: dark glass over the void */
+  .glass-panel {
+    background: rgba(255, 255, 255, 0.04);
+    backdrop-filter: blur(32px);
+    -webkit-backdrop-filter: blur(32px);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    transition: all 0.3s ease;
+  }
+
+  .glass-panel:hover {
+    background: rgba(255, 255, 255, 0.07);
+    border-color: rgba(212, 255, 91, 0.35);
+    box-shadow: 0 0 15px rgba(212, 255, 91, 0.12);
+  }
+
+  /* Higher elevation: lighter glass, sharper border glow */
+  .glass-panel-raised {
+    background: rgba(255, 255, 255, 0.07);
+    backdrop-filter: blur(32px);
+    -webkit-backdrop-filter: blur(32px);
+    border: 1px solid rgba(255, 255, 255, 0.16);
+    box-shadow: 0 0 30px rgba(0, 242, 255, 0.08);
+  }
+
+  /* Focused / active elements carry a neon border with bloom */
+  .neon-edge-lime {
+    border: 1.5px solid #d4ff5b;
+    box-shadow: 0 0 12px rgba(212, 255, 91, 0.35);
+  }
+
+  .neon-edge-cyan {
+    border: 1.5px solid #00f2ff;
+    box-shadow: 0 0 12px rgba(0, 242, 255, 0.35);
+  }
+
+  /* Ambient bloom behind hero areas -- the "flowing neon" wash */
+  .neon-wash {
+    position: absolute;
+    inset-inline: 0;
+    height: 24rem;
+    background: #00f2ff;
+    opacity: 0.05;
+    filter: blur(150px);
+    border-radius: 9999px;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .neon-wash-lime {
+    background: #d4ff5b;
+    opacity: 0.06;
+  }
+
+  /* Gradient hero, lime -> cyan */
+  .gradient-banner {
+    background:
+      radial-gradient(120% 120% at 0% 0%, rgba(212, 255, 91, 0.22) 0%, transparent 55%),
+      radial-gradient(120% 120% at 100% 100%, rgba(0, 242, 255, 0.22) 0%, transparent 55%),
+      #0d0f06;
+  }
+
+  /* Labels are always all-caps with the widest tracking -- the UI's rhythm */
+  .agent-chip {
+    @apply inline-flex items-center gap-1.5 rounded-full px-3 py-1.5
+           font-label-caps text-label-caps uppercase;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+  color-scheme: dark;
+}
+
+body {
+  background-color: #000000;
+  color: #e2e4d3;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background: #d4ff5b;
+  color: #000000;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #000000;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.12);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(212, 255, 91, 0.5);
+}

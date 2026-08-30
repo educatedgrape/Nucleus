@@ -1,0 +1,24 @@
+{
+  "id": "sku_010",
+  "name": "Lumen Pro 14",
+  "price": 1549,
+  "specs": {
+    "weight_kg": 1.29,
+    "screen_size_in": 14.0,
+    "screen_type": "OLED",
+    "refresh_hz": 60,
+    "brightness_nits": 500,
+    "cpu": "Core Ultra 7",
+    "gpu": "integrated",
+    "ram_gb": 16,
+    "storage_gb": 1000,
+    "battery_wh": 68,
+    "ports": "2x Thunderbolt 4, USB-A",
+    "chassis": "aluminium unibody",
+    "cooling": "single fan",
+    "os": "Windows 11"
+  },
+  "description": "A 14 inch notebook aimed at office work and study. Ships with a year of cloud storage and a choice of two keyboard colours.",
+  "edit_history": [],
+  "semantic_links": []
+}

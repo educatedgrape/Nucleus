@@ -1,0 +1,20 @@
+{
+  "id": "sku_010",
+  "name": "Velocity Carbon Pro",
+  "price": 260,
+  "specs": {
+    "weight_g": 212,
+    "drop_mm": 8,
+    "stack_height_mm": 39,
+    "upper": "knit",
+    "midsole": "Pebax",
+    "outsole": "carbon rubber",
+    "plate": "carbon fibre",
+    "surface": "road",
+    "waterproof": false,
+    "cushioning": "high"
+  },
+  "description": "A carbon-plated racing shoe built for personal bests. The full-length carbon fibre plate over Pebax foam is aggressively propulsive and responsive at tempo, and the whole thing comes in at a race-ready 212g.",
+  "edit_history": [],
+  "semantic_links": []
+}

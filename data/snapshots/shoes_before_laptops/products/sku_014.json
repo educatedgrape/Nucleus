@@ -1,0 +1,30 @@
+{
+  "id": "sku_014",
+  "name": "Trail Runner Lite",
+  "price": 189,
+  "specs": {
+    "weight_g": 210,
+    "drop_mm": 6,
+    "stack_height_mm": 24,
+    "upper": "engineered mesh",
+    "midsole": "EVA",
+    "outsole": "4mm lugs",
+    "plate": "none",
+    "surface": "trail",
+    "waterproof": false,
+    "cushioning": "low"
+  },
+  "description": "A pared-back off-road silhouette with a streamlined profile and a low-cut collar. Finished with a moulded heel clip. The engineered mesh upper is breathable, helping to keep your feet cool on warm trail runs.",
+  "edit_history": [
+    {
+      "at": "2026-08-29T13:18:54.397695+00:00",
+      "added": "A pared-back off-road silhouette with a streamlined profile and a low-cut collar. Finished with a moulded heel clip. The engineered mesh upper is breathable, helping to keep your feet cool on warm trail runs.",
+      "replaced": "A pared-back off-road silhouette with a streamlined profile and a low-cut collar. Finished with a moulded heel clip.",
+      "based_on": [
+        "upper: engineered mesh"
+      ],
+      "proposal_id": "prop_152"
+    }
+  ],
+  "semantic_links": []
+}

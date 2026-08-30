@@ -1,0 +1,7 @@
+sentence-transformers>=5.0.0
+numpy>=2.0
+PyYAML>=6.0
+fastapi>=0.115
+uvicorn[standard]>=0.30
+openai>=1.60
+pytest>=8.0

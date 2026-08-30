@@ -1,0 +1,17 @@
+{
+  "id": "prop_161",
+  "created_at": "2026-08-29T13:18:35.388161+00:00",
+  "status": "pending",
+  "gap_id": "gap_161",
+  "product_id": "sku_016",
+  "intent": "Durability and longevity for frequent training",
+  "action": "flag",
+  "new_description": null,
+  "based_on": [],
+  "reason": "Downgraded automatically: proposed copy could not be traced to the specs.",
+  "downgraded_from": "rewrite",
+  "rejected_description": "The high-mileage workhorse. A full carbon rubber outsole makes this exceptionally durable and long-lasting, comfortably absorbing weeks of daily training, while the breathable mesh upper keeps things cool. The 31mm stack height provides consistent cushioning for frequent runs.",
+  "traceability_failures": [
+    "claims cushioning, which this product's specs do not support: 'The 31mm stack height provides consistent cushioning for frequent runs.'"
+  ]
+}

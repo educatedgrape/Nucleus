@@ -1,0 +1,12 @@
+{
+  "id": "prop_113",
+  "created_at": "2026-08-29T13:18:24.321414+00:00",
+  "status": "pending",
+  "gap_id": "gap_113",
+  "product_id": "sku_008",
+  "intent": "Minimalist or simple design preferences",
+  "action": "skip",
+  "new_description": null,
+  "based_on": [],
+  "reason": "Specs show moderate cushioning, rock plate, and 27mm stack height, which are not minimalist features."
+}

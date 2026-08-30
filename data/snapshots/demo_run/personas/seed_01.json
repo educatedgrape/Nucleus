@@ -1,0 +1,30 @@
+{
+  "id": "seed_01",
+  "seed_id": "seed_01",
+  "origin": "real",
+  "need": "A durable neutral road trainer for half marathon training that stays comfortable over long distances and does not cramp a wide forefoot",
+  "must_have": [
+    "room across the forefoot",
+    "under $160",
+    "durable enough for five runs a week"
+  ],
+  "prefer": [
+    "lighter than the current pair",
+    "stays cool in summer heat"
+  ],
+  "context": [
+    "half marathon training",
+    "runs five days a week",
+    "wide feet",
+    "feet swell in summer heat",
+    "mostly pavement, occasional towpath"
+  ],
+  "angle": "seed",
+  "query": "durable neutral road trainer with room in the forefoot for half marathon training under $160",
+  "source_answers": {
+    "last_bought": "A pair of neutral road trainers for half marathon training, about $140.",
+    "almost_bought": "A lighter racing-style shoe that was around $60 more.",
+    "why_not": "I run five days a week and I didn't think the racing pair would survive the mileage. It also looked narrow, and my feet swell in the summer.",
+    "never_compromise": "Enough room across the forefoot. I have wide feet and anything narrow gives me blisters by 10k. And it can't feel like a brick after 15k."
+  }
+}

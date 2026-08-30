@@ -1,0 +1,19 @@
+{
+  "id": "prop_041",
+  "created_at": "2026-08-29T13:18:18.354648+00:00",
+  "status": "approved",
+  "gap_id": "gap_041",
+  "product_id": "sku_020",
+  "intent": "Budget-friendly options for wide feet",
+  "action": "no_change",
+  "new_description": null,
+  "based_on": [],
+  "reason": "Already surfaces for this intent; the description is doing its job. No change necessary.",
+  "link": {
+    "intent": "Budget-friendly options for wide feet",
+    "round": 1,
+    "evidenced_by": "Looking for a gift: what running shoes would suit someone training for a half marathon, with wide feet and a tight budget?",
+    "rank": 5
+  },
+  "applied": "semantic_link_recorded"
+}

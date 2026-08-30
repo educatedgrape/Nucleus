@@ -1,0 +1,12 @@
+{
+  "id": "prop_141",
+  "created_at": "2026-08-29T13:18:28.716804+00:00",
+  "status": "pending",
+  "gap_id": "gap_141",
+  "product_id": "sku_013",
+  "intent": "Breathability and temperature management (hot/cold/wet)",
+  "action": "flag",
+  "new_description": null,
+  "based_on": [],
+  "reason": "No specs about breathability, mesh, or temperature management."
+}

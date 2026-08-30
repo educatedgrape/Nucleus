@@ -1,0 +1,12 @@
+{
+  "id": "prop_148",
+  "created_at": "2026-08-29T13:18:29.856488+00:00",
+  "status": "pending",
+  "gap_id": "gap_148",
+  "product_id": "sku_013",
+  "intent": "Advanced technology and new materials",
+  "action": "flag",
+  "new_description": null,
+  "based_on": [],
+  "reason": "No specs or description about advanced technology or innovative materials."
+}

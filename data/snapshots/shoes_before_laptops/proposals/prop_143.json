@@ -1,0 +1,25 @@
+{
+  "id": "prop_143",
+  "created_at": "2026-08-29T13:18:29.829496+00:00",
+  "status": "pending",
+  "gap_id": "gap_143",
+  "product_id": "sku_013",
+  "intent": "Grip and versatility for mixed surfaces",
+  "action": "rewrite",
+  "new_description": "Built for technical trail. Deep 6mm lugs deliver serious traction on wet rock and loose descents, and the ripstop upper is hard-wearing enough to survive repeated scree contact. The aggressive outsole grips confidently across a variety of trail surfaces.",
+  "based_on": [
+    "outsole: 6mm aggressive lugs",
+    "surface: trail"
+  ],
+  "reason": "The outsole and surface specs support a claim about grip and versatility for mixed trail surfaces.",
+  "from_description": "Built for technical trail. Deep 6mm lugs deliver serious traction on wet rock and loose descents, and the ripstop upper is hard-wearing enough to survive repeated scree contact.",
+  "claims": [
+    {
+      "sentence": "The aggressive outsole grips confidently across a variety of trail surfaces.",
+      "spec_fields": [
+        "outsole",
+        "surface"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "prop_104",
+  "created_at": "2026-08-29T13:18:23.328287+00:00",
+  "status": "approved",
+  "gap_id": "gap_104",
+  "product_id": "sku_006",
+  "intent": "Advanced technology and new materials",
+  "action": "rewrite",
+  "new_description": "A competition-oriented silhouette with a sculpted midsole sidewall and a minimal heel. Finished in a two-tone upper. The Pebax midsole delivers responsive cushioning, while a carbon fibre plate adds stiffness for efficient energy transfer.",
+  "based_on": [
+    "midsole: Pebax",
+    "plate: carbon fibre"
+  ],
+  "reason": "The specs list a Pebax midsole and carbon fibre plate, both advanced materials, which support the shopper's intent.",
+  "from_description": "A competition-oriented silhouette with a sculpted midsole sidewall and a minimal heel. Finished in a two-tone upper.",
+  "claims": [
+    {
+      "sentence": "The Pebax midsole delivers responsive cushioning, while a carbon fibre plate adds stiffness for efficient energy transfer.",
+      "spec_fields": [
+        "midsole",
+        "plate"
+      ]
+    }
+  ],
+  "applied": "description_updated"
+}

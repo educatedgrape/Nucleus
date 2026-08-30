@@ -1,0 +1,19 @@
+{
+  "id": "prop_014",
+  "created_at": "2026-08-29T13:18:18.294663+00:00",
+  "status": "approved",
+  "gap_id": "gap_014",
+  "product_id": "sku_001",
+  "intent": "Comfort and fit for wide feet during long runs",
+  "action": "no_change",
+  "new_description": null,
+  "based_on": [],
+  "reason": "Already surfaces for this intent; the description is doing its job. No change necessary.",
+  "link": {
+    "intent": "Comfort and fit for wide feet during long runs",
+    "round": 1,
+    "evidenced_by": "I have a half marathon in 3 weeks—what wide, comfortable trainers can I break in quickly for daily runs?",
+    "rank": 2
+  },
+  "applied": "semantic_link_recorded"
+}

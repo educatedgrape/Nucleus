@@ -1,0 +1,12 @@
+{
+  "id": "prop_117",
+  "created_at": "2026-08-29T13:18:24.338207+00:00",
+  "status": "pending",
+  "gap_id": "gap_117",
+  "product_id": "sku_009",
+  "intent": "Durability and longevity for frequent training",
+  "action": "flag",
+  "new_description": null,
+  "based_on": [],
+  "reason": "No specs directly address durability or longevity; upper material and overlays are listed but do not guarantee long-term use."
+}

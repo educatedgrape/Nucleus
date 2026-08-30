@@ -1,0 +1,12 @@
+{
+  "id": "prop_165",
+  "created_at": "2026-08-29T13:18:36.482400+00:00",
+  "status": "pending",
+  "gap_id": "gap_165",
+  "product_id": "sku_016",
+  "intent": "Grip and versatility for mixed surfaces",
+  "action": "skip",
+  "new_description": null,
+  "based_on": [],
+  "reason": "The surface spec is 'road' only, so it is not intended for mixed surfaces."
+}

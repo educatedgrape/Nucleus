@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "nucleus-web",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["next", "dev"],
+      "cwd": "web",
+      "port": 3000,
+      "autoPort": true,
+      "env": { "NUCLEUS_API": "http://127.0.0.1:8001" }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "prop_024",
+  "created_at": "2026-08-29T13:18:18.314726+00:00",
+  "status": "approved",
+  "gap_id": "gap_024",
+  "product_id": "sku_024",
+  "intent": "Comfort and fit for wide feet during long runs",
+  "action": "no_change",
+  "new_description": null,
+  "based_on": [],
+  "reason": "Already surfaces for this intent; the description is doing its job. No change necessary.",
+  "link": {
+    "intent": "Comfort and fit for wide feet during long runs",
+    "round": 1,
+    "evidenced_by": "Are there neutral trainers for wide feet with a bit more arch support, but still roomy and good for long runs?",
+    "rank": 5
+  },
+  "applied": "semantic_link_recorded"
+}

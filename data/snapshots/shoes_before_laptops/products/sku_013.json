@@ -1,0 +1,31 @@
+{
+  "id": "sku_013",
+  "name": "Terra Claw",
+  "price": 165,
+  "specs": {
+    "weight_g": 295,
+    "drop_mm": 6,
+    "stack_height_mm": 26,
+    "upper": "ripstop",
+    "midsole": "EVA",
+    "outsole": "6mm aggressive lugs",
+    "plate": "rock plate",
+    "surface": "trail",
+    "waterproof": false,
+    "cushioning": "low"
+  },
+  "description": "Built for technical trail. Deep 6mm lugs deliver serious traction on wet rock and loose descents, and the ripstop upper is hard-wearing enough to survive repeated scree contact. The durable ripstop upper and robust outsole are designed to withstand frequent use on rugged terrain.",
+  "edit_history": [
+    {
+      "at": "2026-08-29T13:18:54.171602+00:00",
+      "added": "Built for technical trail. Deep 6mm lugs deliver serious traction on wet rock and loose descents, and the ripstop upper is hard-wearing enough to survive repeated scree contact. The durable ripstop upper and robust outsole are designed to withstand frequent use on rugged terrain.",
+      "replaced": "Built for technical trail. Deep 6mm lugs deliver serious traction on wet rock and loose descents, and the ripstop upper is hard-wearing enough to survive repeated scree contact.",
+      "based_on": [
+        "outsole: 6mm aggressive lugs",
+        "upper: ripstop"
+      ],
+      "proposal_id": "prop_139"
+    }
+  ],
+  "semantic_links": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "prop_097",
+  "created_at": "2026-08-29T13:18:22.139593+00:00",
+  "status": "pending",
+  "gap_id": "gap_097",
+  "product_id": "sku_006",
+  "intent": "Breathability and temperature management (hot/cold/wet)",
+  "action": "flag",
+  "new_description": null,
+  "based_on": [],
+  "reason": "No specs for breathability or temperature management; 'knit' upper may imply breathability but is not explicit."
+}

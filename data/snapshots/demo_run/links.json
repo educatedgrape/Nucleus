@@ -1,0 +1,530 @@
+{
+  "sku_001": [
+    {
+      "intent": "Durability and longevity for frequent training",
+      "round": 1,
+      "evidenced_by": "What are the lightest neutral trainers for wide feet that can handle 5 runs a week and cost less than $160?",
+      "rank": 5
+    },
+    {
+      "intent": "Comfort and fit for wide feet during long runs",
+      "round": 1,
+      "evidenced_by": "I have a half marathon in 3 weeks—what wide, comfortable trainers can I break in quickly for daily runs?",
+      "rank": 2
+    },
+    {
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "round": 1,
+      "evidenced_by": "I run early in the morning when it’s still cool and sometimes damp—what neutral trainers are comfortable for wide feet and won’t get soggy or heavy?",
+      "rank": 2
+    },
+    {
+      "intent": "Grip and versatility for mixed surfaces",
+      "round": 1,
+      "evidenced_by": "I mostly run on roads but sometimes hit gravel towpaths—what neutral trainers work for both, especially for wide feet?",
+      "rank": 4
+    }
+  ],
+  "sku_002": [
+    {
+      "intent": "Durability and longevity for frequent training",
+      "round": 1,
+      "evidenced_by": "I’ve worn out my current wide trainers—what’s a good upgrade for daily half marathon training under $160?",
+      "rank": 5
+    },
+    {
+      "intent": "Comfort and fit for wide feet during long runs",
+      "round": 1,
+      "evidenced_by": "I have a half marathon in 3 weeks—what wide, comfortable trainers can I break in quickly for daily runs?",
+      "rank": 5
+    }
+  ],
+  "sku_003": [
+    {
+      "intent": "Durability and longevity for frequent training",
+      "round": 1,
+      "evidenced_by": "Are there any wide running shoes for half marathon training that are under $120 but still last for daily runs?",
+      "rank": 5
+    },
+    {
+      "intent": "Comfort and fit for wide feet during long runs",
+      "round": 1,
+      "evidenced_by": "First time training for a half marathon—what neutral running shoes are best for wide feet and daily use?",
+      "rank": 5
+    },
+    {
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "round": 1,
+      "evidenced_by": "Are there any neutral running shoes for wide feet that won’t get soaked or slippery in the rain? I train outside even when it’s wet.",
+      "rank": 4
+    },
+    {
+      "intent": "Style and appearance for wide-fit running shoes",
+      "round": 1,
+      "evidenced_by": "Looking for running shoes for wide feet that don’t look clunky—anything stylish for daily training?",
+      "rank": 5
+    },
+    {
+      "intent": "Sustainability and eco-friendly materials",
+      "round": 1,
+      "evidenced_by": "Are there any sustainable or recycled-material running shoes for wide feet that can handle half marathon training?",
+      "rank": 5
+    }
+  ],
+  "sku_004": [
+    {
+      "intent": "Durability and longevity for frequent training",
+      "round": 1,
+      "evidenced_by": "Are there any wide running shoes for half marathon training that are under $120 but still last for daily runs?",
+      "rank": 1
+    },
+    {
+      "intent": "Comfort and fit for wide feet during long runs",
+      "round": 1,
+      "evidenced_by": "I have a half marathon in 3 weeks—what wide, comfortable trainers can I break in quickly for daily runs?",
+      "rank": 1
+    },
+    {
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "round": 1,
+      "evidenced_by": "Looking for running shoes that stay cool and have a wide toe box for summer half marathon training",
+      "rank": 1
+    },
+    {
+      "intent": "Budget-friendly options for wide feet",
+      "round": 1,
+      "evidenced_by": "Looking for a gift: what running shoes would suit someone training for a half marathon, with wide feet and a tight budget?",
+      "rank": 2
+    },
+    {
+      "intent": "Style and appearance for wide-fit running shoes",
+      "round": 1,
+      "evidenced_by": "Looking for running shoes for wide feet that don’t look clunky—anything stylish for daily training?",
+      "rank": 3
+    },
+    {
+      "intent": "Sustainability and eco-friendly materials",
+      "round": 1,
+      "evidenced_by": "Are there any sustainable or recycled-material running shoes for wide feet that can handle half marathon training?",
+      "rank": 1
+    },
+    {
+      "intent": "Minimalist or simple design preferences",
+      "round": 1,
+      "evidenced_by": "I’m interested in a more minimal shoe but still need cushioning and a wide toe box for long road runs—any suggestions?",
+      "rank": 1
+    },
+    {
+      "intent": "Support and injury recovery for wide feet",
+      "round": 1,
+      "evidenced_by": "Coming back from a mild foot injury—what neutral trainers for wide feet offer good support but aren’t too stiff?",
+      "rank": 5
+    },
+    {
+      "intent": "Advanced technology and new materials",
+      "round": 1,
+      "evidenced_by": "Are there any new running shoes with advanced materials or tech that are good for wide feet and frequent training?",
+      "rank": 1
+    },
+    {
+      "intent": "Visibility and safety for night running",
+      "round": 1,
+      "evidenced_by": "Best running shoes for wide feet and high visibility? I run after dark on roads and want something reflective.",
+      "rank": 3
+    }
+  ],
+  "sku_007": [
+    {
+      "intent": "Durability and longevity for frequent training",
+      "round": 1,
+      "evidenced_by": "Are there any wide running shoes for half marathon training that are under $120 but still last for daily runs?",
+      "rank": 3
+    },
+    {
+      "intent": "Comfort and fit for wide feet during long runs",
+      "round": 1,
+      "evidenced_by": "First time training for a half marathon—what neutral running shoes are best for wide feet and daily use?",
+      "rank": 4
+    },
+    {
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "round": 1,
+      "evidenced_by": "Looking for running shoes that stay cool and have a wide toe box for summer half marathon training",
+      "rank": 2
+    },
+    {
+      "intent": "Budget-friendly options for wide feet",
+      "round": 1,
+      "evidenced_by": "Looking for a gift: what running shoes would suit someone training for a half marathon, with wide feet and a tight budget?",
+      "rank": 3
+    },
+    {
+      "intent": "Style and appearance for wide-fit running shoes",
+      "round": 1,
+      "evidenced_by": "Looking for running shoes for wide feet that don’t look clunky—anything stylish for daily training?",
+      "rank": 4
+    },
+    {
+      "intent": "Sustainability and eco-friendly materials",
+      "round": 1,
+      "evidenced_by": "Are there any sustainable or recycled-material running shoes for wide feet that can handle half marathon training?",
+      "rank": 3
+    },
+    {
+      "intent": "Minimalist or simple design preferences",
+      "round": 1,
+      "evidenced_by": "I’m interested in a more minimal shoe but still need cushioning and a wide toe box for long road runs—any suggestions?",
+      "rank": 3
+    },
+    {
+      "intent": "Advanced technology and new materials",
+      "round": 1,
+      "evidenced_by": "Are there any new running shoes with advanced materials or tech that are good for wide feet and frequent training?",
+      "rank": 5
+    },
+    {
+      "intent": "Visibility and safety for night running",
+      "round": 1,
+      "evidenced_by": "Best running shoes for wide feet and high visibility? I run after dark on roads and want something reflective.",
+      "rank": 1
+    }
+  ],
+  "sku_010": [
+    {
+      "intent": "Durability and longevity for frequent training",
+      "round": 1,
+      "evidenced_by": "Are there any wide running shoes for half marathon training that are under $120 but still last for daily runs?",
+      "rank": 4
+    },
+    {
+      "intent": "Comfort and fit for wide feet during long runs",
+      "round": 1,
+      "evidenced_by": "My feet swell a lot in the summer—what running shoes have the most forefoot space and stay comfortable for long runs?",
+      "rank": 5
+    },
+    {
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "round": 1,
+      "evidenced_by": "Looking for running shoes that stay cool and have a wide toe box for summer half marathon training",
+      "rank": 4
+    },
+    {
+      "intent": "Budget-friendly options for wide feet",
+      "round": 1,
+      "evidenced_by": "Looking for a gift: what running shoes would suit someone training for a half marathon, with wide feet and a tight budget?",
+      "rank": 4
+    },
+    {
+      "intent": "Sustainability and eco-friendly materials",
+      "round": 1,
+      "evidenced_by": "Are there any sustainable or recycled-material running shoes for wide feet that can handle half marathon training?",
+      "rank": 4
+    },
+    {
+      "intent": "Minimalist or simple design preferences",
+      "round": 1,
+      "evidenced_by": "I’m interested in a more minimal shoe but still need cushioning and a wide toe box for long road runs—any suggestions?",
+      "rank": 4
+    },
+    {
+      "intent": "Advanced technology and new materials",
+      "round": 1,
+      "evidenced_by": "Are there any new running shoes with advanced materials or tech that are good for wide feet and frequent training?",
+      "rank": 3
+    }
+  ],
+  "sku_012": [
+    {
+      "intent": "Durability and longevity for frequent training",
+      "round": 1,
+      "evidenced_by": "What are the lightest neutral trainers for wide feet that can handle 5 runs a week and cost less than $160?",
+      "rank": 1
+    },
+    {
+      "intent": "Comfort and fit for wide feet during long runs",
+      "round": 1,
+      "evidenced_by": "Are there neutral trainers for wide feet with a bit more arch support, but still roomy and good for long runs?",
+      "rank": 4
+    },
+    {
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "round": 1,
+      "evidenced_by": "I run early in the morning when it’s still cool and sometimes damp—what neutral trainers are comfortable for wide feet and won’t get soggy or heavy?",
+      "rank": 5
+    },
+    {
+      "intent": "Grip and versatility for mixed surfaces",
+      "round": 1,
+      "evidenced_by": "Best neutral trainers for wide feet that grip well on both pavement and occasional towpath runs?",
+      "rank": 4
+    },
+    {
+      "intent": "Minimalist or simple design preferences",
+      "round": 1,
+      "evidenced_by": "I don’t want a shoe with a lot of gimmicks or tech—just a simple, reliable neutral trainer for wide feet. Any recommendations?",
+      "rank": 2
+    },
+    {
+      "intent": "Support and injury recovery for wide feet",
+      "round": 1,
+      "evidenced_by": "Coming back from a mild foot injury—what neutral trainers for wide feet offer good support but aren’t too stiff?",
+      "rank": 2
+    }
+  ],
+  "sku_015": [
+    {
+      "intent": "Durability and longevity for frequent training",
+      "round": 1,
+      "evidenced_by": "Which running shoes for wide feet will actually last through 5 days a week of half marathon training?",
+      "rank": 4
+    },
+    {
+      "intent": "Comfort and fit for wide feet during long runs",
+      "round": 1,
+      "evidenced_by": "First time training for a half marathon—what neutral running shoes are best for wide feet and daily use?",
+      "rank": 3
+    },
+    {
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "round": 1,
+      "evidenced_by": "I travel a lot for work—what’s a good neutral running shoe for wide feet that packs easily and dries fast?",
+      "rank": 4
+    },
+    {
+      "intent": "Style and appearance for wide-fit running shoes",
+      "round": 1,
+      "evidenced_by": "Looking for running shoes for wide feet that don’t look clunky—anything stylish for daily training?",
+      "rank": 2
+    },
+    {
+      "intent": "Minimalist or simple design preferences",
+      "round": 1,
+      "evidenced_by": "I’m interested in a more minimal shoe but still need cushioning and a wide toe box for long road runs—any suggestions?",
+      "rank": 5
+    },
+    {
+      "intent": "Advanced technology and new materials",
+      "round": 1,
+      "evidenced_by": "Are there any new running shoes with advanced materials or tech that are good for wide feet and frequent training?",
+      "rank": 2
+    },
+    {
+      "intent": "Visibility and safety for night running",
+      "round": 1,
+      "evidenced_by": "Best running shoes for wide feet and high visibility? I run after dark on roads and want something reflective.",
+      "rank": 4
+    }
+  ],
+  "sku_018": [
+    {
+      "intent": "Durability and longevity for frequent training",
+      "round": 1,
+      "evidenced_by": "I’ve worn out my current wide trainers—what’s a good upgrade for daily half marathon training under $160?",
+      "rank": 3
+    },
+    {
+      "intent": "Comfort and fit for wide feet during long runs",
+      "round": 1,
+      "evidenced_by": "I want to add a second pair to my rotation for half marathon training—what’s a good wide-fit neutral trainer under $160?",
+      "rank": 1
+    }
+  ],
+  "sku_020": [
+    {
+      "intent": "Durability and longevity for frequent training",
+      "round": 1,
+      "evidenced_by": "What are the lightest neutral trainers for wide feet that can handle 5 runs a week and cost less than $160?",
+      "rank": 3
+    },
+    {
+      "intent": "Comfort and fit for wide feet during long runs",
+      "round": 1,
+      "evidenced_by": "I have a half marathon in 3 weeks—what wide, comfortable trainers can I break in quickly for daily runs?",
+      "rank": 3
+    },
+    {
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "round": 1,
+      "evidenced_by": "I run early in the morning when it’s still cool and sometimes damp—what neutral trainers are comfortable for wide feet and won’t get soggy or heavy?",
+      "rank": 4
+    },
+    {
+      "intent": "Budget-friendly options for wide feet",
+      "round": 1,
+      "evidenced_by": "Looking for a gift: what running shoes would suit someone training for a half marathon, with wide feet and a tight budget?",
+      "rank": 5
+    },
+    {
+      "intent": "Grip and versatility for mixed surfaces",
+      "round": 1,
+      "evidenced_by": "Best neutral trainers for wide feet that grip well on both pavement and occasional towpath runs?",
+      "rank": 3
+    },
+    {
+      "intent": "Minimalist or simple design preferences",
+      "round": 1,
+      "evidenced_by": "I don’t want a shoe with a lot of gimmicks or tech—just a simple, reliable neutral trainer for wide feet. Any recommendations?",
+      "rank": 4
+    },
+    {
+      "intent": "Support and injury recovery for wide feet",
+      "round": 1,
+      "evidenced_by": "Coming back from a mild foot injury—what neutral trainers for wide feet offer good support but aren’t too stiff?",
+      "rank": 3
+    }
+  ],
+  "sku_024": [
+    {
+      "intent": "Durability and longevity for frequent training",
+      "round": 1,
+      "evidenced_by": "What are the lightest neutral trainers for wide feet that can handle 5 runs a week and cost less than $160?",
+      "rank": 4
+    },
+    {
+      "intent": "Comfort and fit for wide feet during long runs",
+      "round": 1,
+      "evidenced_by": "Are there neutral trainers for wide feet with a bit more arch support, but still roomy and good for long runs?",
+      "rank": 5
+    },
+    {
+      "intent": "Grip and versatility for mixed surfaces",
+      "round": 1,
+      "evidenced_by": "Best neutral trainers for wide feet that grip well on both pavement and occasional towpath runs?",
+      "rank": 5
+    },
+    {
+      "intent": "Minimalist or simple design preferences",
+      "round": 1,
+      "evidenced_by": "I don’t want a shoe with a lot of gimmicks or tech—just a simple, reliable neutral trainer for wide feet. Any recommendations?",
+      "rank": 1
+    },
+    {
+      "intent": "Support and injury recovery for wide feet",
+      "round": 1,
+      "evidenced_by": "Coming back from a mild foot injury—what neutral trainers for wide feet offer good support but aren’t too stiff?",
+      "rank": 4
+    }
+  ],
+  "sku_025": [
+    {
+      "intent": "Durability and longevity for frequent training",
+      "round": 1,
+      "evidenced_by": "Are there any wide running shoes for half marathon training that are under $120 but still last for daily runs?",
+      "rank": 2
+    },
+    {
+      "intent": "Comfort and fit for wide feet during long runs",
+      "round": 1,
+      "evidenced_by": "First time training for a half marathon—what neutral running shoes are best for wide feet and daily use?",
+      "rank": 2
+    },
+    {
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "round": 1,
+      "evidenced_by": "Looking for running shoes that stay cool and have a wide toe box for summer half marathon training",
+      "rank": 3
+    },
+    {
+      "intent": "Budget-friendly options for wide feet",
+      "round": 1,
+      "evidenced_by": "Looking for a gift: what running shoes would suit someone training for a half marathon, with wide feet and a tight budget?",
+      "rank": 1
+    },
+    {
+      "intent": "Style and appearance for wide-fit running shoes",
+      "round": 1,
+      "evidenced_by": "Looking for running shoes for wide feet that don’t look clunky—anything stylish for daily training?",
+      "rank": 1
+    },
+    {
+      "intent": "Sustainability and eco-friendly materials",
+      "round": 1,
+      "evidenced_by": "Are there any sustainable or recycled-material running shoes for wide feet that can handle half marathon training?",
+      "rank": 2
+    },
+    {
+      "intent": "Minimalist or simple design preferences",
+      "round": 1,
+      "evidenced_by": "I’m interested in a more minimal shoe but still need cushioning and a wide toe box for long road runs—any suggestions?",
+      "rank": 2
+    },
+    {
+      "intent": "Advanced technology and new materials",
+      "round": 1,
+      "evidenced_by": "Are there any new running shoes with advanced materials or tech that are good for wide feet and frequent training?",
+      "rank": 4
+    },
+    {
+      "intent": "Visibility and safety for night running",
+      "round": 1,
+      "evidenced_by": "Best running shoes for wide feet and high visibility? I run after dark on roads and want something reflective.",
+      "rank": 2
+    }
+  ],
+  "sku_026": [
+    {
+      "intent": "Durability and longevity for frequent training",
+      "round": 1,
+      "evidenced_by": "What are the lightest neutral trainers for wide feet that can handle 5 runs a week and cost less than $160?",
+      "rank": 2
+    },
+    {
+      "intent": "Comfort and fit for wide feet during long runs",
+      "round": 1,
+      "evidenced_by": "I have a half marathon in 3 weeks—what wide, comfortable trainers can I break in quickly for daily runs?",
+      "rank": 4
+    },
+    {
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "round": 1,
+      "evidenced_by": "I run early in the morning when it’s still cool and sometimes damp—what neutral trainers are comfortable for wide feet and won’t get soggy or heavy?",
+      "rank": 3
+    },
+    {
+      "intent": "Grip and versatility for mixed surfaces",
+      "round": 1,
+      "evidenced_by": "Best neutral trainers for wide feet that grip well on both pavement and occasional towpath runs?",
+      "rank": 1
+    },
+    {
+      "intent": "Minimalist or simple design preferences",
+      "round": 1,
+      "evidenced_by": "I don’t want a shoe with a lot of gimmicks or tech—just a simple, reliable neutral trainer for wide feet. Any recommendations?",
+      "rank": 3
+    },
+    {
+      "intent": "Support and injury recovery for wide feet",
+      "round": 1,
+      "evidenced_by": "Coming back from a mild foot injury—what neutral trainers for wide feet offer good support but aren’t too stiff?",
+      "rank": 1
+    }
+  ],
+  "sku_022": [
+    {
+      "intent": "Breathability and temperature management (hot/cold/wet)",
+      "round": 1,
+      "evidenced_by": "Looking for running shoes that stay cool and have a wide toe box for summer half marathon training",
+      "rank": 5
+    },
+    {
+      "intent": "Visibility and safety for night running",
+      "round": 1,
+      "evidenced_by": "Best running shoes for wide feet and high visibility? I run after dark on roads and want something reflective.",
+      "rank": 5
+    }
+  ],
+  "sku_019": [
+    {
+      "intent": "Grip and versatility for mixed surfaces",
+      "round": 1,
+      "evidenced_by": "Best neutral trainers for wide feet that grip well on both pavement and occasional towpath runs?",
+      "rank": 2
+    },
+    {
+      "intent": "Minimalist or simple design preferences",
+      "round": 1,
+      "evidenced_by": "I don’t want a shoe with a lot of gimmicks or tech—just a simple, reliable neutral trainer for wide feet. Any recommendations?",
+      "rank": 5
+    }
+  ]
+}

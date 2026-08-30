@@ -1,0 +1,20 @@
+{
+  "id": "sku_020",
+  "name": "Sprint Cell",
+  "price": 195,
+  "specs": {
+    "weight_g": 215,
+    "drop_mm": 6,
+    "stack_height_mm": 32,
+    "upper": "knit",
+    "midsole": "Pebax",
+    "outsole": "blown rubber",
+    "plate": "none",
+    "surface": "road",
+    "waterproof": false,
+    "cushioning": "moderate"
+  },
+  "description": "A tempo-day trainer with a sculpted midsole and a snug midfoot. Two-colour knit upper.",
+  "edit_history": [],
+  "semantic_links": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "prop_150",
+  "created_at": "2026-08-29T13:18:29.867296+00:00",
+  "status": "pending",
+  "gap_id": "gap_150",
+  "product_id": "sku_014",
+  "intent": "Durability and longevity for frequent training",
+  "action": "flag",
+  "new_description": null,
+  "based_on": [],
+  "reason": "No specs address durability, longevity, or warranty; nothing supports this intent."
+}

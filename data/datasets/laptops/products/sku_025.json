@@ -1,0 +1,24 @@
+{
+  "id": "sku_025",
+  "name": "Chalkboard Edu 11",
+  "price": 279,
+  "specs": {
+    "weight_kg": 1.2,
+    "screen_size_in": 11.6,
+    "screen_type": "IPS",
+    "refresh_hz": 60,
+    "brightness_nits": 250,
+    "cpu": "MediaTek Kompanio 520",
+    "gpu": "integrated",
+    "ram_gb": 4,
+    "storage_gb": 64,
+    "battery_wh": 42,
+    "ports": "2x USB-C",
+    "chassis": "polycarbonate",
+    "cooling": "fanless",
+    "os": "Windows 11"
+  },
+  "description": "A classroom device sold to education buyers in trolley packs. Web-based operating system, 4GB of memory, and a spill-resistant deck.",
+  "edit_history": [],
+  "semantic_links": []
+}
